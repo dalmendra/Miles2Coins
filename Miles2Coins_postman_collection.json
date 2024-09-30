@@ -1,0 +1,289 @@
+{
+	"info": {
+		"_postman_id": "240ef68b-11cd-4933-be0e-4a40d77470ec",
+		"name": "Miles2Coins",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34098837"
+	},
+	"item": [
+		{
+			"name": "01_deploySampleCoin",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/deploySampleCoin",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"deploySampleCoin"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "02_deployMiles",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/deployMiles",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"deployMiles"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "03_deployMiles2Coins",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"sampleCoinAddress\": \"0x5FbDB2315678afecb367f032d93F642f64180aa3\",\r\n  \"milesAddress\": \"0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/deployMiles2Coins",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"deployMiles2Coins"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "04_mintMiles",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"address\": \"0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512\",\r\n  \"account\": \"0x70997970C51812dc3A010C7d01b50e0d17dc79C8\",\r\n  \"amount\": \"10000\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/mintMiles",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"mintMiles"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "05_mintSampleCoin",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"address\": \"0x5FbDB2315678afecb367f032d93F642f64180aa3\",\r\n  \"account\": \"0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC\",\r\n  \"amount\": \"50000\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/mintSampleCoin",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"mintSampleCoin"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "06_placeOffer",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"miles2CoinsAddress\": \"0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0\",\r\n  \"milesTokenAddress\":\"0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512\",\r\n  \"sampleCoinAddress\":\"0x5FbDB2315678afecb367f032d93F642f64180aa3\",\r\n  \"amount\": \"1000\",\r\n  \"price\": \"2\",\r\n  \"isBuying\": false,\r\n  \"accountIndex\": \"1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/placeOffer",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"placeOffer"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "07_listOffers",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/listOffers?miles2CoinsAddress=0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"listOffers"
+					],
+					"query": [
+						{
+							"key": "miles2CoinsAddress",
+							"value": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "08_acceptOffer",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"miles2CoinsAddress\": \"0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0\",\r\n  \"milesTokenAddress\":\"0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512\",\r\n  \"sampleCoinAddress\":\"0x5FbDB2315678afecb367f032d93F642f64180aa3\",\r\n  \"offerId\":\"1\",\r\n  \"accountIndex\": \"2\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/acceptOffer",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"acceptOffer"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "09_checkBalances",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/checkBalances?milesTokenAddress=0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512&sampleCoinAddress=0x5FbDB2315678afecb367f032d93F642f64180aa3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"checkBalances"
+					],
+					"query": [
+						{
+							"key": "milesTokenAddress",
+							"value": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+						},
+						{
+							"key": "sampleCoinAddress",
+							"value": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10_readTransactions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/readTransactions",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"readTransactions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "11_readEvents",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/readEvents?miles2CoinsAddress=0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"readEvents"
+					],
+					"query": [
+						{
+							"key": "miles2CoinsAddress",
+							"value": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
