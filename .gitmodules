@@ -1,0 +1,8 @@
+[submodule "external/anonymous-zether"]
+	path = external/anonymous-zether
+	url = https://github.com/dalmendra/anonymous-zether.git
+	branch = hardhat
+[submodule "external/anonymous-zether-client"]
+	path = external/anonymous-zether-client
+	url = https://github.com/dalmendra/anonymous-zether-client.git
+	branch = dvp
