@@ -49,4 +49,4 @@ The application is designed to run on a local Ethereum test network, with JavaSc
 
 ## Private Miles2Coins DvP transactions
 
-To enhance privacy in the DvP transaction process (trading MilesTokens for SampleCoins or vice versa), you can integrate the privacy-preserving solution Anonymous Zether. Refer to [Anonymous Zether](https://linklinklink2.link2) for more information.
+To enhance privacy in the DvP transaction process (trading MilesTokens for SampleCoins or vice versa), you can integrate the privacy-preserving solution Anonymous Zether. Refer to [Anonymous Zether](https://github.com/dalmendra/anonymous-zether) for more information. Anonymous Zether and its front-end client were added as submodules to the Miles2Coins applications - see the `external` folder.
