@@ -45,7 +45,7 @@ The application is designed to run on a local Ethereum test network, with JavaSc
    ```bash
    node api.js
    ```
-8. (Optional) Start Postman and import the [Miles2Coins Collection](Miles2Coins_postman_collection). Send requests, modifying parameters as necessary.
+8. (Optional) Start Postman and import the [Miles2Coins Collection](Miles2Coins_postman_collection.json). Send requests, modifying parameters as necessary.
 
 ## Private Miles2Coins DvP transactions
 
