@@ -1,0 +1,912 @@
+{
+	"info": {
+		"_postman_id": "ca6934b0-96c4-48cd-8967-c28e839ae9a3",
+		"name": "anonzether-client-DvP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34098837"
+	},
+	"item": [
+		{
+			"name": "01_Seller_CreateAccount",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);\r",
+							"if (jsonData.eth) {\r",
+							"    postman.setEnvironmentVariable(\"sellerEthAddr\", jsonData.eth);\r",
+							"    postman.setEnvironmentVariable(\"sellerShieldedAddr\", jsonData.shielded);\r",
+							"}"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/accounts",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "01_Buyer_CreateAccount",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);\r",
+							"if (jsonData.eth) {\r",
+							"    postman.setEnvironmentVariable(\"buyerEthAddr\", jsonData.eth);\r",
+							"    postman.setEnvironmentVariable(\"buyerShieldedAddr\", jsonData.shielded);\r",
+							"}"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/accounts",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "02_Seller_EnableAccount",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"isERC20\": false\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/accounts/{{sellerEthAddr}}/authorize/erc1155",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts",
+						"{{sellerEthAddr}}",
+						"authorize",
+						"erc1155"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "02_Buyer_EnableAccount",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"isERC20\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/accounts/{{buyerEthAddr}}/authorize/erc20",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts",
+						"{{buyerEthAddr}}",
+						"authorize",
+						"erc20"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "03_Seller_MintERC1155",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"ethAddress\":\"{{sellerEthAddr}}\",\r\n\"amount\":1000,\r\n\"isERC20\":false\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/mint/erc1155",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"mint",
+						"erc1155"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "04_Buyer_MintERC20",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"ethAddress\":\"{{buyerEthAddr}}\",\r\n\"amount\":1000,\r\n\"isERC20\":true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/mint/erc20",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"mint",
+						"erc20"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "05_Seller_RegisterZSC1155Restricted",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"Seller\",\n    \"zsc\": \"{{ZSCERC1155Restricted}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/accounts/{{sellerShieldedAddr}}/register",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts",
+						"{{sellerShieldedAddr}}",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "05_Buyer_RegisterZSC1155Restricted",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"Buyer\",\n    \"zsc\": \"{{ZSCERC1155Restricted}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/accounts/{{buyerShieldedAddr}}/register",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts",
+						"{{buyerShieldedAddr}}",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "05_Seller_RegisterZSCRestricted",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"Seller\",\n    \"zsc\": \"{{ZSCRestricted}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/accounts/{{sellerShieldedAddr}}/register",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts",
+						"{{sellerShieldedAddr}}",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "05_Buyer_RegisterZSCRestricted",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"Buyer\",\n    \"zsc\": \"{{ZSCRestricted}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/accounts/{{buyerShieldedAddr}}/register",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts",
+						"{{buyerShieldedAddr}}",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "06_Seller_FundShieldedAccountZSCERC1155Restricted",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"ethAddress\": \"{{sellerEthAddr}}\",\n    \"amount\": 1,\n    \"zsc\": \"{{ZSCERC1155Restricted}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/fund/erc1155",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"fund",
+						"erc1155"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "06_Buyer_FundShieldedAccountZSCRestricted",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"ethAddress\": \"{{buyerEthAddr}}\",\n    \"amount\": 1,\n    \"zsc\": \"{{ZSCRestricted}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/fund/erc20",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"fund",
+						"erc20"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "07_Seller_CreateOnetimeSigner",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"postman.setEnvironmentVariable(\"txSubmitterSeller\", jsonData.address);",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/onetimeSigner",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"onetimeSigner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "07_Buyer_CreateOnetimeSigner",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"postman.setEnvironmentVariable(\"txSubmitterBuyer\", jsonData.address);",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/onetimeSigner",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"onetimeSigner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "08_Seller_StartDvP",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"if (jsonData.transactionSubmitter) {",
+							"    postman.setEnvironmentVariable(\"txSubmitterSeller\", jsonData.transactionSubmitter);",
+							"    postman.setEnvironmentVariable(\"proofSeller\", jsonData.proof);",
+							"}",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"sender\": \"{{sellerShieldedAddr}}\",\n    \"receiver\": \"{{buyerShieldedAddr}}\",\n    \"amount\": 1,\n    \"signer\": \"{{txSubmitterSeller}}\",\n    \"zsc\": \"{{ZSCERC1155Restricted}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/startDvP",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"startDvP"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "08_Buyer_StartDvP",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"if (jsonData.transactionSubmitter) {",
+							"    postman.setEnvironmentVariable(\"txSubmitterBuyer\", jsonData.transactionSubmitter);",
+							"    postman.setEnvironmentVariable(\"proofBuyer\", jsonData.proof);",
+							"}",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"sender\": \"{{buyerShieldedAddr}}\",\n    \"receiver\": \"{{sellerShieldedAddr}}\",\n    \"amount\": 1,\n    \"signer\": \"{{txSubmitterBuyer}}\",\n    \"zsc\": \"{{ZSCRestricted}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/startDvP",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"startDvP"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "09_Seller_ExecuteDvP",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"senderEthAddress\": \"{{txSubmitterSeller}}\",\n    \"counterpartyEthAddress\": \"{{txSubmitterBuyer}}\",\n    \"proof\": \"{{proofSeller}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/executeDvP",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"executeDvP"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "09_Buyer_ExecuteDvP",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"senderEthAddress\": \"{{txSubmitterBuyer}}\",\n    \"counterpartyEthAddress\": \"{{txSubmitterSeller}}\",\n    \"proof\": \"{{proofBuyer}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/executeDvP",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"executeDvP"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10_Seller_GetBalanceZSCERC1155Restricted",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/accounts/{{sellerShieldedAddr}}/balance?zsc={{ZSCERC1155Restricted}}",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts",
+						"{{sellerShieldedAddr}}",
+						"balance"
+					],
+					"query": [
+						{
+							"key": "zsc",
+							"value": "{{ZSCERC1155Restricted}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10_Buyer_GetBalanceZSCERC1155Restricted",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/accounts/{{buyerShieldedAddr}}/balance?zsc={{ZSCERC1155Restricted}}",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts",
+						"{{buyerShieldedAddr}}",
+						"balance"
+					],
+					"query": [
+						{
+							"key": "zsc",
+							"value": "{{ZSCERC1155Restricted}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10_Seller_GetBalanceZSCRestricted",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{sellerHost}}/api/v1/accounts/{{sellerShieldedAddr}}/balance?zsc={{ZSCRestricted}}",
+					"protocol": "http",
+					"host": [
+						"{{sellerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts",
+						"{{sellerShieldedAddr}}",
+						"balance"
+					],
+					"query": [
+						{
+							"key": "zsc",
+							"value": "{{ZSCRestricted}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10_Buyer_GetBalanceZSCRestricted",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://{{buyerHost}}/api/v1/accounts/{{buyerShieldedAddr}}/balance?zsc={{ZSCRestricted}}",
+					"protocol": "http",
+					"host": [
+						"{{buyerHost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"accounts",
+						"{{buyerShieldedAddr}}",
+						"balance"
+					],
+					"query": [
+						{
+							"key": "zsc",
+							"value": "{{ZSCRestricted}}"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "sellerHost",
+			"value": "localhost:3000"
+		},
+		{
+			"key": "ZSCERC1155Restricted",
+			"value": "0x0165878A594ca255338adfa4d48449f69242Eb8F"
+		},
+		{
+			"key": "ZSCRestricted",
+			"value": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+			"type": "string"
+		},
+		{
+			"key": "buyerHost",
+			"value": "localhost:3001",
+			"type": "string"
+		}
+	]
+}

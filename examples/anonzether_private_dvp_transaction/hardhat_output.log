@@ -1,0 +1,475 @@
+Started HTTP and WebSocket JSON-RPC server at http://127.0.0.1:8545/
+
+Accounts
+========
+
+WARNING: These accounts, and their private keys, are publicly known.
+Any funds sent to them on Mainnet or any other live network WILL BE LOST.
+
+Account #0: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266 (10000 ETH)
+Private Key: 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
+
+Account #1: 0x70997970C51812dc3A010C7d01b50e0d17dc79C8 (10000 ETH)
+Private Key: 0x59c6995e998f97a5a0044966f0945389dc9e86dae88c7a8412f4603b6b78690d
+
+Account #2: 0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC (10000 ETH)
+Private Key: 0x5de4111afa1a4b94908f83103eb1f1706367c2e68ca870fc3fb9a804cdab365a
+
+Account #3: 0x90F79bf6EB2c4f870365E785982E1f101E93b906 (10000 ETH)
+Private Key: 0x7c852118294e51e653712a81e05800f419141751be58f605c371e15141b007a6
+
+Account #4: 0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65 (10000 ETH)
+Private Key: 0x47e179ec197488593b187f80a00eb0da91f1b9d0b13f8733639f19c30a34926a
+
+Account #5: 0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc (10000 ETH)
+Private Key: 0x8b3a350cf5c34c9194ca85829a2df0ec3153be0318b5e2d3348e872092edffba
+
+Account #6: 0x976EA74026E726554dB657fA54763abd0C3a0aa9 (10000 ETH)
+Private Key: 0x92db14e403b83dfe3df233f83dfa3a0d7096f21ca9b0d6d6b8d88b2b4ec1564e
+
+Account #7: 0x14dC79964da2C08b23698B3D3cc7Ca32193d9955 (10000 ETH)
+Private Key: 0x4bbbf85ce3377467afe5d46f804f221813b2bb87f24d81f60f1fcdbf7cbf4356
+
+Account #8: 0x23618e81E3f5cdF7f54C3d65f7FBc0aBf5B21E8f (10000 ETH)
+Private Key: 0xdbda1821b80551c9d65939329250298aa3472ba22feea921c0cf5d620ea67b97
+
+Account #9: 0xa0Ee7A142d267C1f36714E4a8F75612F20a79720 (10000 ETH)
+Private Key: 0x2a871d0798f97d79848a013d4936a73bf4cc922c825d33c1cf7073dff6d409c6
+
+Account #10: 0xBcd4042DE499D14e55001CcbB24a551F3b954096 (10000 ETH)
+Private Key: 0xf214f2b2cd398c806f84e317254e0f0b801d0643303237d97a22a48e01628897
+
+Account #11: 0x71bE63f3384f5fb98995898A86B02Fb2426c5788 (10000 ETH)
+Private Key: 0x701b615bbdfb9de65240bc28bd21bbc0d996645a3dd57e7b12bc2bdf6f192c82
+
+Account #12: 0xFABB0ac9d68B0B445fB7357272Ff202C5651694a (10000 ETH)
+Private Key: 0xa267530f49f8280200edf313ee7af6b827f2a8bce2897751d06a843f644967b1
+
+Account #13: 0x1CBd3b2770909D4e10f157cABC84C7264073C9Ec (10000 ETH)
+Private Key: 0x47c99abed3324a2707c28affff1267e45918ec8c3f20b8aa892e8b065d2942dd
+
+Account #14: 0xdF3e18d64BC6A983f673Ab319CCaE4f1a57C7097 (10000 ETH)
+Private Key: 0xc526ee95bf44d8fc405a158bb884d9d1238d99f0612e9f33d006bb0789009aaa
+
+Account #15: 0xcd3B766CCDd6AE721141F452C550Ca635964ce71 (10000 ETH)
+Private Key: 0x8166f546bab6da521a8369cab06c5d2b9e46670292d85c875ee9ec20e84ffb61
+
+Account #16: 0x2546BcD3c84621e976D8185a91A922aE77ECEc30 (10000 ETH)
+Private Key: 0xea6c44ac03bff858b476bba40716402b03e41b8e97e276d1baec7c37d42484a0
+
+Account #17: 0xbDA5747bFD65F08deb54cb465eB87D40e51B197E (10000 ETH)
+Private Key: 0x689af8efa8c651a91ad287602527f3af2fe9f6501a7ac4b061667b5a93e037fd
+
+Account #18: 0xdD2FD4581271e230360230F9337D5c0430Bf44C0 (10000 ETH)
+Private Key: 0xde9be858da4a475276426320d5e9262ecfc3ba460bfac56360bfa6c4c28b4ee0
+
+Account #19: 0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199 (10000 ETH)
+Private Key: 0xdf57089febbacf7ba0bc227dafbffa9fc08a93fdc68e1e42411a14efcf23656e
+
+WARNING: These accounts, and their private keys, are publicly known.
+Any funds sent to them on Mainnet or any other live network WILL BE LOST.
+
+eth_chainId (2)
+eth_gasPrice
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionCount
+eth_chainId (2)
+eth_gasPrice
+eth_getBlockByNumber
+eth_estimateGas
+eth_chainId
+eth_blockNumber
+eth_sendRawTransaction
+  Contract deployment: CashToken
+  Contract address:    0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Transaction:         0x8eaa62783e97ea90ccd3c61ba26c2b684ab9f9b028863d3d345782a9e5b59c0b
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            868479 of 868479
+  Block #1:            0x95da066fcb569ba4cfbde8ea9c0ab754329b5647460218d19cb88f1fef753f33
+
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_call
+  Contract call:       CashToken#owner
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+eth_chainId
+eth_gasPrice
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionCount
+eth_chainId (2)
+eth_gasPrice
+eth_getBlockByNumber
+eth_estimateGas
+eth_chainId
+eth_sendRawTransaction
+  Contract deployment: Erc1155Token
+  Contract address:    0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Transaction:         0x02f8de92b1642902e38987da8dbb23de509f33772d066a3ee9c31e04093466b1
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            1405984 of 1405984
+  Block #2:            0x97bb51cfc94da125536edbdb2c04c9db63b1f4f4f6746e5a1c81694c2de658ed
+
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_call
+  Contract call:       Erc1155Token#owner
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+
+eth_chainId
+eth_gasPrice
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionCount
+eth_chainId (2)
+eth_gasPrice
+eth_getBlockByNumber
+eth_estimateGas
+eth_chainId
+eth_sendRawTransaction
+  Contract deployment: InnerProductVerifier
+  Contract address:    0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0
+  Transaction:         0x6143641be775b4660ce60f2e40044331dc462b1812cb6147c58693154c109fba
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            3374900 of 3374900
+  Block #3:            0x3d7d2ba30b6d59be404468fbf5a14712f613d019ffd0d74fa3d39b27846b4fd1
+
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_gasPrice
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionCount
+eth_chainId (2)
+eth_gasPrice
+eth_getBlockByNumber
+eth_estimateGas
+eth_chainId
+eth_sendRawTransaction
+  Contract deployment: ZetherVerifier
+  Contract address:    0xcf7ed3acca5a467e9e704c703e8d87f634fb0fc9
+  Transaction:         0x2f95b29b9a2dea4a0c4cfba59f3c08b8fd586debaa204b25536539ef47da980d
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            3653408 of 3653408
+  Block #4:            0xac614dca1aabf73b3e03188cf58793a3357bdda599b1812c1c8f985d89822b18
+
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_gasPrice
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionCount
+eth_chainId (2)
+eth_gasPrice
+eth_getBlockByNumber
+eth_estimateGas
+eth_chainId
+eth_sendRawTransaction
+  Contract deployment: BurnVerifier
+  Contract address:    0xdc64a140aa3e981100a9beca4e685f962f0cf6c9
+  Transaction:         0x7487f29501cd5655d99c72cb392f14f16ddb0152edbb0161fd1ea7f656927fa8
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            1480250 of 1480250
+  Block #5:            0x38081d201ffcf6c299fcf0bf53c8f51e4ba6b7a07654c394e883e51a40a23ddc
+
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_gasPrice
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionCount
+eth_chainId (2)
+eth_gasPrice
+eth_getBlockByNumber
+eth_estimateGas
+eth_chainId
+eth_sendRawTransaction
+  Contract deployment: ZSCRestricted
+  Contract address:    0x5fc8d32690cc91d4c39d9d3abcbd16989f875707
+  Transaction:         0x9b8ff8715e19b06702bb39e38288bdbaf2331cf948f4a42446f6fcc537ad1918
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            2085169 of 2085169
+  Block #6:            0x6cd18b7d3f62b6fac3679eea0505629819138ec562d1219e5f78d8230383bb18
+
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_gasPrice
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionCount
+eth_chainId (2)
+eth_gasPrice
+eth_getBlockByNumber
+eth_estimateGas
+eth_chainId
+eth_sendRawTransaction
+  Contract deployment: ZSCERC1155Restricted
+  Contract address:    0x0165878a594ca255338adfa4d48449f69242eb8f
+  Transaction:         0x2b45c7fc25b73b30210befe31b6435f959c332f0e52f400f448b4adcbca862ab
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            2213277 of 2213277
+  Block #7:            0x17ce92f44599b51e4df664d53d66e909c6fadf41e55844394addc8b2ed4c08f0
+
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_gasPrice
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionCount
+eth_chainId (2)
+eth_gasPrice
+eth_getBlockByNumber
+eth_estimateGas
+eth_chainId
+eth_sendRawTransaction
+  Contract deployment: DvpZSC
+  Contract address:    0xa513e6e4b8f2a923d98304ec87f64353c4d5c853
+  Transaction:         0x7fcd0a4b6350fe00d059cb1f21352ca9fee3e614951ab22894aaddb70455d06f
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            1600353 of 1600353
+  Block #8:            0xd3519b813e65a8e6663ce5ea50a7ff98a350be3e67f049840a801334aa1ccc3e
+
+eth_chainId
+eth_getTransactionReceipt
+eth_subscribe (2)
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       Erc1155Token#enableAccount
+  Transaction:         0x030b872546690d8f222ffb3b7ec6a1338b048c2871110ca05196bec0251ea3de
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            46151 of 6721975
+  Block #9:            0xc73fad04edeff477dae2741283955920af903edb1cdb4e17e87552a7bb054383
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       CashToken#enableAccount
+  Transaction:         0xf93f24b619d7f9534f627a12485042411f1e3481c316ac74e4b88f0176c847f2
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            46151 of 6721975
+  Block #10:           0x630ae08164d7a1c81ae5c0db9f813be07f503816d7eb12258a464e50b076b36f
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       Erc1155Token#mint
+  Transaction:         0xd4652a5df3254e7418576bba92216009f427c7e9c3110c96d7b113e09af8f027
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            54458 of 6721975
+  Block #11:           0x1cb764e80b36923eba8913342691c5772be0a8dacb0303572f8a0ee6d94180bc
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       CashToken#mint
+  Transaction:         0x8e941c6349f0c80294f451143d309d6f0c851873351c85ca45eb874ca455a4dd
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            99468 of 6721975
+  Block #12:           0x5119c24c47313f5c501a14e461b99a42141e2d5a6c2c44c3fdb0c7cdf7e5f1b4
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       ZSCERC1155Restricted#register
+  Transaction:         0xb349ae0bc81bd5ec0ee29e9d9261e132e198ba9bce61571b1532aa7b86cb1a94
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x0165878a594ca255338adfa4d48449f69242eb8f
+  Value:               0 ETH
+  Gas used:            225339 of 6721975
+  Block #13:           0x84549ac5d87f1d9e744023557b8c2d5da8192e0b637e2caffe52c08fde638c9c
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       ZSCERC1155Restricted#register
+  Transaction:         0x55e9f5abb95c0cc2f276ad6f87f815766328fd5fac77b504e0cbe02e26e79300
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x0165878a594ca255338adfa4d48449f69242eb8f
+  Value:               0 ETH
+  Gas used:            208239 of 6721975
+  Block #14:           0x2489c7a44fa7cea461dcad7db5c3f3f46a838bdd40ddb3ea84e02b01f4153b53
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       ZSCRestricted#register
+  Transaction:         0x9aa50bdd996063c918bba59b10714740915981efb62db77271c0ec87db26f3ba
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fc8d32690cc91d4c39d9d3abcbd16989f875707
+  Value:               0 ETH
+  Gas used:            225383 of 6721975
+  Block #15:           0x0dd1a9096a26abc07cc267ff84211c9f63411b1163ee8194ce2146a7e8d47251
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       ZSCRestricted#register
+  Transaction:         0x2b261a9c72947a03cfa73fa73c1681294ca217f84c85b3cf67b8d4f1196f8cbf
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fc8d32690cc91d4c39d9d3abcbd16989f875707
+  Value:               0 ETH
+  Gas used:            208271 of 6721975
+  Block #16:           0x53b6e451135db50d31454b2efb54b944a71dc9e02fb40ffbb36b5416a757a444
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       Erc1155Token#setApprovalForAll
+  Transaction:         0x7a1bfdaba608711b663a8a0f0945c19661ab76043191dcdd34c3862089aa400b
+  From:                0x58c95a98ca0840e729ad3f2bf493662d69299f10
+  To:                  0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+  Value:               0 ETH
+  Gas used:            46177 of 6721975
+  Block #17:           0x2b0d8859f887e9ab50b36217fa795f357d39d0234deffaec1845e6f355709c7b
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       ZSCERC1155Restricted#fund
+  Transaction:         0x3a5a8f2686a255694d6845c41d6cb1a58de8abb39ae6e897ee6d57dc8b90c971
+  From:                0x58c95a98ca0840e729ad3f2bf493662d69299f10
+  To:                  0x0165878a594ca255338adfa4d48449f69242eb8f
+  Value:               0 ETH
+  Gas used:            207318 of 6721975
+  Block #18:           0xd8c19c1a15b87d9ecb3f0a1d13ab6ea8c8070219a583622cf90e1359e1aab154
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       CashToken#approve
+  Transaction:         0x660c9a45da122b27ba68adc24d93ecf12f692b55ca949b40d34a5d483163bf12
+  From:                0x63f3defd349b7a029e407820aa290814c925ec22
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            46223 of 6721975
+  Block #19:           0x7b6b51efbccaff1a2c529086793c1723bf2600c1cb12b34461b0518b65e08546
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       ZSCRestricted#fund
+  Transaction:         0x5064677816230c1fafeedc56134ac24a9ce9c24c65409e20688398d84ec4ebd6
+  From:                0x63f3defd349b7a029e407820aa290814c925ec22
+  To:                  0x5fc8d32690cc91d4c39d9d3abcbd16989f875707
+  Value:               0 ETH
+  Gas used:            205723 of 6721975
+  Block #20:           0x73d1cbcc2cc72e960eb0384d7210a7fa61408b12516d66214a53a9c9c1093805
+
+eth_getTransactionReceipt
+eth_accounts
+eth_call
+  Contract call:       ZSCERC1155Restricted#simulateAccounts
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x0165878a594ca255338adfa4d48449f69242eb8f
+
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       DvpZSC#startDvp
+  Transaction:         0x54538e1289b33304c3ae2a2636f861cbdc0d4923cf2d06c18c1759984fca8e01
+  From:                0x268c1611e034aca346860f8ac0be59e928679b9f
+  To:                  0xa513e6e4b8f2a923d98304ec87f64353c4d5c853
+  Value:               0 ETH
+  Gas used:            441733 of 6721975
+  Block #21:           0x37531ec4b6d3d86afb9aaaf8ce0b6802fa0fbf6cc75638b6ada98361e2fdfa4c
+
+eth_getTransactionReceipt
+eth_call
+  Contract call:       ZSCRestricted#simulateAccounts
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fc8d32690cc91d4c39d9d3abcbd16989f875707
+
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       DvpZSC#startDvp
+  Transaction:         0xf33db67d1d1ffa5774ccfeec46d2f2ef2acd777e28265f9396c8c734dd97708d
+  From:                0xd5603932acad8a34a7b500db55f35602a3b7d6b2
+  To:                  0xa513e6e4b8f2a923d98304ec87f64353c4d5c853
+  Value:               0 ETH
+  Gas used:            441699 of 6721975
+  Block #22:           0x6934113a966e2f492f133426f50db4da8e9e320e91a1d7ba82f95c2e9ef8c636
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       DvpZSC#confirmDvp
+  Transaction:         0x20f43f97f492f8c8b2cad7f0321d5795e9023d6a64f082f38e851ee5a01cd638
+  From:                0x268c1611e034aca346860f8ac0be59e928679b9f
+  To:                  0xa513e6e4b8f2a923d98304ec87f64353c4d5c853
+  Value:               0 ETH
+  Gas used:            1538007 of 8721975
+  Block #23:           0x8db73d2764a7099d96150f6f852b5f04b4a96f9fcde5ac7355c906d0cbb4bcb0
+
+eth_getTransactionReceipt
+eth_getTransactionCount
+eth_chainId
+eth_sendRawTransaction
+  Contract call:       DvpZSC#confirmDvp
+  Transaction:         0xf4db7186d394efcc1f7263b9c7c63cdc72316fc3c5161dfbbbd4542b6a4367f5
+  From:                0xd5603932acad8a34a7b500db55f35602a3b7d6b2
+  To:                  0xa513e6e4b8f2a923d98304ec87f64353c4d5c853
+  Value:               0 ETH
+  Gas used:            8421481 of 8721975
+  Block #24:           0xf1ac75d88cd4c559181208aa0bc8d4085df9c5e2855b3799656b5a36fa3c728d
+
+eth_getTransactionReceipt
+eth_call
+  Contract call:       ZSCERC1155Restricted#simulateAccounts
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x0165878a594ca255338adfa4d48449f69242eb8f
+
+eth_call
+  Contract call:       ZSCERC1155Restricted#simulateAccounts
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x0165878a594ca255338adfa4d48449f69242eb8f
+
+eth_call
+  Contract call:       ZSCRestricted#simulateAccounts
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fc8d32690cc91d4c39d9d3abcbd16989f875707
+
+eth_call
+  Contract call:       ZSCRestricted#simulateAccounts
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fc8d32690cc91d4c39d9d3abcbd16989f875707
