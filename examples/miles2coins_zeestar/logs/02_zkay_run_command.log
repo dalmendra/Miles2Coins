@@ -1,0 +1,826 @@
+# zkay run --blockchain-backend w3-eth-tester ./miles2coins_compiled/
+Using solc version v0.6.12
+Python 3.8.12 (default, Oct  9 2024, 16:54:36)
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+>>> exec(open('01_deploy_and_mint.py').read())
+Command: owner, alice, bob = create_dummy_accounts(3)
+EC secret found, loading from file /root/.local/share/zkay/keys/ec_2b5ad5c4795c026514f8317c7a215e218dccd6cf.bin
+#######################
+# Deploying Libraries #
+#######################
+
+Consumed gas: 213428
+Deployed pki contract for crypto back-end ecdh-chaskey at address "0xF2E246BB76DF876Cef8b38ae84130F4F55De395b"
+Consumed gas: 213848
+Deployed pki contract for crypto back-end elgamal at address "0x2946259E0334f33A064106302415aD3391BeD384"
+Announcing public key "PublicKeyValue((3912248156740778576422941804692423204121444603268722903741635561176665132113,))" for address "2b5ad5c4795c026514f8317c7a215e218dccd6cf"
+Consumed gas: 66547
+ElGamal secret found, loading from file /root/.local/share/zkay/keys/elgamal_508_2b5ad5c4795c026514f8317c7a215e218dccd6cf.bin
+Announcing public key "PublicKeyValue((12270737580024110805802431569371405689604603622203043361946463973950490807516, 12924439091557762950185985025450453679505525114154601959851152527653956296125))" for address "2b5ad5c4795c026514f8317c7a215e218dccd6cf"
+Consumed gas: 89300
+EC secret found, loading from file /root/.local/share/zkay/keys/ec_6813eb9362372eef6200f3b1dbc3f819671cba69.bin
+Announcing public key "PublicKeyValue((17732036785435444298568672093413560833730386716635388291134280874061437549761,))" for address "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 66547
+ElGamal secret found, loading from file /root/.local/share/zkay/keys/elgamal_508_6813eb9362372eef6200f3b1dbc3f819671cba69.bin
+Announcing public key "PublicKeyValue((12284202536331153886375793086512022591546462285754869546388117090686876303024, 18446587402414889696853813783848911828996175370334104650049253101110382971172))" for address "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 89300
+EC secret found, loading from file /root/.local/share/zkay/keys/ec_1eff47bc3a10a45d4b230b5d10e37751fe6aa718.bin
+Announcing public key "PublicKeyValue((1511036329469857906569436346135842949104528574313958857436383050481142975646,))" for address "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 66547
+ElGamal secret found, loading from file /root/.local/share/zkay/keys/elgamal_508_1eff47bc3a10a45d4b230b5d10e37751fe6aa718.bin
+Announcing public key "PublicKeyValue((6983127193998044659257090325535403987306762848433073235331204301191619385199, 20183296054705262816957331603670916658133313480670035018324324007951188327829))" for address "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 89300
+Start time: Thu Jan  2 21:52:10 2025 ; Time taken: 1.108782 seconds
+
+Command: miles2coins = deploy(user=owner)
+Current block timestamp: 1735854730
+#######################
+# Calling constructor #
+#######################
+
+######################
+# Deploy Miles2Coins #
+######################
+
+Deploying contract Miles2Coins[]
+Parsing... done
+Type checking with solc...
+
+WARNING:
+At line: 135;5
+    function listOffers(uint8 filter) public {
+----/
+
+Function state mutability can be restricted to view
+
+
+WARNING:
+At line: 140;21
+                    uint32 amt  = offer_amount[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 141;21
+                    uint32 prc  = offer_price[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 142;21
+                    address cr  = offer_creator[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 143;21
+                    bool active = offer_is_active[i];
+--------------------/
+
+Unused local variable.
+
+
+done
+Preprocessing AST... done
+Zkay type checking... done
+Consumed gas: 826351
+Consumed gas: 826519
+Consumed gas: 826567
+Consumed gas: 826555
+Consumed gas: 2455860
+Deployed contract "Miles2Coins" at address "0x865a3C7824F32ce33E688249beBe405a96cb2219"
+
+Start time: Thu Jan  2 21:52:11 2025 ; Time taken: 1.374153 seconds
+
+Command: owner_interface = connect(miles2coins.address, user=owner)
+###################################################################
+# Connect to Miles2Coins@865a3c7824f32ce33e688249bebe405a96cb2219 #
+###################################################################
+
+Parsing... done
+Type checking with solc...
+
+WARNING:
+At line: 135;5
+    function listOffers(uint8 filter) public {
+----/
+
+Function state mutability can be restricted to view
+
+
+WARNING:
+At line: 140;21
+                    uint32 amt  = offer_amount[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 141;21
+                    uint32 prc  = offer_price[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 142;21
+                    address cr  = offer_creator[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 143;21
+                    bool active = offer_is_active[i];
+--------------------/
+
+Unused local variable.
+
+
+done
+Preprocessing AST... done
+Zkay type checking... done
+Connecting to contract Miles2Coins@865a3c7824f32ce33e688249bebe405a96cb2219
+Contract@0xF2E246BB76DF876Cef8b38ae84130F4F55De395b matches zk__PublicKeyInfrastructure_Ecdh_Chaskey.sol:zk__PublicKeyInfrastructure_Ecdh_Chaskey
+Contract@0x2946259E0334f33A064106302415aD3391BeD384 matches zk__PublicKeyInfrastructure_Elgamal.sol:zk__PublicKeyInfrastructure_Elgamal
+Contract@0x242C735479F3B5CD6A907A90D640EdcC1eB1C815 matches zk__Verify_Miles2Coins_mintMiles.sol:zk__Verify_Miles2Coins_mintMiles
+Contract@0x475652655309FA7CB1397537BEe9a7fbafdC11cA matches zk__Verify_Miles2Coins_mintSurreal.sol:zk__Verify_Miles2Coins_mintSurreal
+Contract@0x9d9DD5DB6075a748B74460B9C388bDFC7F73A630 matches zk__Verify_Miles2Coins_placeOffer.sol:zk__Verify_Miles2Coins_placeOffer
+Contract@0x38D8F68983B2830BC4319cb3c6907B0c3f3B94A2 matches zk__Verify_Miles2Coins_acceptOffer.sol:zk__Verify_Miles2Coins_acceptOffer
+Contract@0x865a3C7824F32ce33E688249beBe405a96cb2219 matches contract.inst.sol:Miles2Coins
+OK: Bytecode on blockchain matches local zkay contract
+Connection from account 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf established
+
+Start time: Thu Jan  2 21:52:12 2025 ; Time taken: 6.202105 seconds
+
+Command: alice_interface = connect(miles2coins.address, user=alice)
+###################################################################
+# Connect to Miles2Coins@865a3c7824f32ce33e688249bebe405a96cb2219 #
+###################################################################
+
+Parsing... done
+Type checking with solc...
+
+WARNING:
+At line: 135;5
+    function listOffers(uint8 filter) public {
+----/
+
+Function state mutability can be restricted to view
+
+
+WARNING:
+At line: 140;21
+                    uint32 amt  = offer_amount[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 141;21
+                    uint32 prc  = offer_price[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 142;21
+                    address cr  = offer_creator[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 143;21
+                    bool active = offer_is_active[i];
+--------------------/
+
+Unused local variable.
+
+
+done
+Preprocessing AST... done
+Zkay type checking... done
+Connecting to contract Miles2Coins@865a3c7824f32ce33e688249bebe405a96cb2219
+Contract@0xF2E246BB76DF876Cef8b38ae84130F4F55De395b matches zk__PublicKeyInfrastructure_Ecdh_Chaskey.sol:zk__PublicKeyInfrastructure_Ecdh_Chaskey
+Contract@0x2946259E0334f33A064106302415aD3391BeD384 matches zk__PublicKeyInfrastructure_Elgamal.sol:zk__PublicKeyInfrastructure_Elgamal
+Contract@0x242C735479F3B5CD6A907A90D640EdcC1eB1C815 matches zk__Verify_Miles2Coins_mintMiles.sol:zk__Verify_Miles2Coins_mintMiles
+Contract@0x475652655309FA7CB1397537BEe9a7fbafdC11cA matches zk__Verify_Miles2Coins_mintSurreal.sol:zk__Verify_Miles2Coins_mintSurreal
+Contract@0x9d9DD5DB6075a748B74460B9C388bDFC7F73A630 matches zk__Verify_Miles2Coins_placeOffer.sol:zk__Verify_Miles2Coins_placeOffer
+Contract@0x38D8F68983B2830BC4319cb3c6907B0c3f3B94A2 matches zk__Verify_Miles2Coins_acceptOffer.sol:zk__Verify_Miles2Coins_acceptOffer
+Contract@0x865a3C7824F32ce33E688249beBe405a96cb2219 matches contract.inst.sol:Miles2Coins
+OK: Bytecode on blockchain matches local zkay contract
+Connection from account 0x6813eb9362372eef6200f3b1dbc3f819671cba69 established
+
+Start time: Thu Jan  2 21:52:18 2025 ; Time taken: 5.078370 seconds
+
+Command: bob_interface = connect(miles2coins.address, user=bob)
+###################################################################
+# Connect to Miles2Coins@865a3c7824f32ce33e688249bebe405a96cb2219 #
+###################################################################
+
+Parsing... done
+Type checking with solc...
+
+WARNING:
+At line: 135;5
+    function listOffers(uint8 filter) public {
+----/
+
+Function state mutability can be restricted to view
+
+
+WARNING:
+At line: 140;21
+                    uint32 amt  = offer_amount[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 141;21
+                    uint32 prc  = offer_price[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 142;21
+                    address cr  = offer_creator[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 143;21
+                    bool active = offer_is_active[i];
+--------------------/
+
+Unused local variable.
+
+
+done
+Preprocessing AST... done
+Zkay type checking... done
+Connecting to contract Miles2Coins@865a3c7824f32ce33e688249bebe405a96cb2219
+Contract@0xF2E246BB76DF876Cef8b38ae84130F4F55De395b matches zk__PublicKeyInfrastructure_Ecdh_Chaskey.sol:zk__PublicKeyInfrastructure_Ecdh_Chaskey
+Contract@0x2946259E0334f33A064106302415aD3391BeD384 matches zk__PublicKeyInfrastructure_Elgamal.sol:zk__PublicKeyInfrastructure_Elgamal
+Contract@0x242C735479F3B5CD6A907A90D640EdcC1eB1C815 matches zk__Verify_Miles2Coins_mintMiles.sol:zk__Verify_Miles2Coins_mintMiles
+Contract@0x475652655309FA7CB1397537BEe9a7fbafdC11cA matches zk__Verify_Miles2Coins_mintSurreal.sol:zk__Verify_Miles2Coins_mintSurreal
+Contract@0x9d9DD5DB6075a748B74460B9C388bDFC7F73A630 matches zk__Verify_Miles2Coins_placeOffer.sol:zk__Verify_Miles2Coins_placeOffer
+Contract@0x38D8F68983B2830BC4319cb3c6907B0c3f3B94A2 matches zk__Verify_Miles2Coins_acceptOffer.sol:zk__Verify_Miles2Coins_acceptOffer
+Contract@0x865a3C7824F32ce33E688249beBe405a96cb2219 matches contract.inst.sol:Miles2Coins
+OK: Bytecode on blockchain matches local zkay contract
+Connection from account 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718 established
+
+Start time: Thu Jan  2 21:52:23 2025 ; Time taken: 5.088318 seconds
+
+Command: owner_interface.mintMiles(alice, 20000)
+Current block timestamp: 1735854735
+#####################
+# Calling mintMiles #
+#####################
+
+Generating proof for Miles2Coins.mintMiles
+Took 13.396856307983398 s
+Issuing transaction for function "mintMiles" from account "2b5ad5c4795c026514f8317c7a215e218dccd6cf"
+Consumed gas: 358904
+
+Start time: Thu Jan  2 21:52:28 2025 ; Time taken: 23.821739 seconds
+
+Command: owner_interface.mintSurreal(bob, 40000)
+Current block timestamp: 1735854736
+#######################
+# Calling mintSurreal #
+#######################
+
+Generating proof for Miles2Coins.mintSurreal
+Took 11.926891088485718 s
+Issuing transaction for function "mintSurreal" from account "2b5ad5c4795c026514f8317c7a215e218dccd6cf"
+Consumed gas: 359071
+
+Start time: Thu Jan  2 21:52:52 2025 ; Time taken: 22.282269 seconds
+
+Command: alice_miles_balance = alice_interface.getMilesBalance()
+Current block timestamp: 1735854737
+###########################
+# Calling getMilesBalance #
+###########################
+
+Start time: Thu Jan  2 21:53:15 2025 ; Time taken: 6.493563 seconds
+Alice's MilesTokens: 20000
+
+Command: alice_surreal_balance = alice_interface.getSurrealBalance()
+Current block timestamp: 1735854737
+#############################
+# Calling getSurrealBalance #
+#############################
+
+Start time: Thu Jan  2 21:53:21 2025 ; Time taken: 0.044558 seconds
+Alice's SurrealCoins: 0
+
+Command: bob_miles_balance = bob_interface.getMilesBalance()
+Current block timestamp: 1735854737
+###########################
+# Calling getMilesBalance #
+###########################
+
+Start time: Thu Jan  2 21:53:21 2025 ; Time taken: 0.045921 seconds
+Bob's MilesTokens: 0
+
+Command: bob_surreal_balance = bob_interface.getSurrealBalance()
+Current block timestamp: 1735854737
+#############################
+# Calling getSurrealBalance #
+#############################
+
+Start time: Thu Jan  2 21:53:21 2025 ; Time taken: 6.386076 seconds
+Bob's SurrealCoins: 40000
+
+>>> exec(open('02_10_flows.py').read())
+--- Offer #1 ---
+Command: alice_interface.placeOffer(1000, 2, 0)
+Current block timestamp: 1735854737
+######################
+# Calling placeOffer #
+######################
+
+Generating proof for Miles2Coins.placeOffer
+Took 16.29708170890808 s
+Issuing transaction for function "placeOffer" from account "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 417161
+
+Start time: Thu Jan  2 21:54:00 2025 ; Time taken: 32.173158 seconds
+
+Command: bob_interface.listOffers(2)
+Current block timestamp: 1735854738
+######################
+# Calling listOffers #
+######################
+
+Issuing transaction for function "listOffers" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 26082
+
+Start time: Thu Jan  2 21:54:32 2025 ; Time taken: 0.414935 seconds
+
+Command: last_offer_id = bob_interface.state.get_plain('last_offer_id')
+Start time: Thu Jan  2 21:54:32 2025 ; Time taken: 0.061760 seconds
+Last Offer ID: 1
+
+Command: bob_interface.acceptOffer(last_offer_id)
+Current block timestamp: 1735854739
+#######################
+# Calling acceptOffer #
+#######################
+
+Generating proof for Miles2Coins.acceptOffer
+Took 38.863160848617554 s
+Issuing transaction for function "acceptOffer" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 527956
+
+Start time: Thu Jan  2 21:54:32 2025 ; Time taken: 58.025653 seconds
+Offer accepted successfully.
+
+--- Offer #2 ---
+Command: alice_interface.placeOffer(1000, 2, 0)
+Current block timestamp: 1735854740
+######################
+# Calling placeOffer #
+######################
+
+Generating proof for Miles2Coins.placeOffer
+Took 16.245510578155518 s
+Issuing transaction for function "placeOffer" from account "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 400037
+
+Start time: Thu Jan  2 21:55:30 2025 ; Time taken: 31.941111 seconds
+
+Command: bob_interface.listOffers(2)
+Current block timestamp: 1735854741
+######################
+# Calling listOffers #
+######################
+
+Issuing transaction for function "listOffers" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 28414
+
+Start time: Thu Jan  2 21:56:02 2025 ; Time taken: 0.501404 seconds
+
+Command: last_offer_id = bob_interface.state.get_plain('last_offer_id')
+Start time: Thu Jan  2 21:56:03 2025 ; Time taken: 0.067015 seconds
+Last Offer ID: 2
+
+Command: bob_interface.acceptOffer(last_offer_id)
+Current block timestamp: 1735854742
+#######################
+# Calling acceptOffer #
+#######################
+
+Generating proof for Miles2Coins.acceptOffer
+Took 38.0275821685791 s
+Issuing transaction for function "acceptOffer" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 371304
+
+Start time: Thu Jan  2 21:56:03 2025 ; Time taken: 63.580551 seconds
+Offer accepted successfully.
+
+--- Offer #3 ---
+Command: alice_interface.placeOffer(1000, 2, 0)
+Current block timestamp: 1735854743
+######################
+# Calling placeOffer #
+######################
+
+Generating proof for Miles2Coins.placeOffer
+Took 16.721627235412598 s
+Issuing transaction for function "placeOffer" from account "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 400025
+
+Start time: Thu Jan  2 21:57:06 2025 ; Time taken: 33.104588 seconds
+
+Command: bob_interface.listOffers(2)
+Current block timestamp: 1735854744
+######################
+# Calling listOffers #
+######################
+
+Issuing transaction for function "listOffers" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 30746
+
+Start time: Thu Jan  2 21:57:40 2025 ; Time taken: 0.649683 seconds
+
+Command: last_offer_id = bob_interface.state.get_plain('last_offer_id')
+Start time: Thu Jan  2 21:57:40 2025 ; Time taken: 0.073441 seconds
+Last Offer ID: 3
+
+Command: bob_interface.acceptOffer(last_offer_id)
+Current block timestamp: 1735854745
+#######################
+# Calling acceptOffer #
+#######################
+
+Generating proof for Miles2Coins.acceptOffer
+Took 36.565144300460815 s
+Issuing transaction for function "acceptOffer" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 371268
+
+Start time: Thu Jan  2 21:57:40 2025 ; Time taken: 61.987020 seconds
+Offer accepted successfully.
+
+--- Offer #4 ---
+Command: alice_interface.placeOffer(1000, 2, 0)
+Current block timestamp: 1735854746
+######################
+# Calling placeOffer #
+######################
+
+Generating proof for Miles2Coins.placeOffer
+Took 16.0343074798584 s
+Issuing transaction for function "placeOffer" from account "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 400037
+
+Start time: Thu Jan  2 21:58:42 2025 ; Time taken: 32.224950 seconds
+
+Command: bob_interface.listOffers(2)
+Current block timestamp: 1735854747
+######################
+# Calling listOffers #
+######################
+
+Issuing transaction for function "listOffers" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 33078
+
+Start time: Thu Jan  2 21:59:14 2025 ; Time taken: 0.718656 seconds
+
+Command: last_offer_id = bob_interface.state.get_plain('last_offer_id')
+Start time: Thu Jan  2 21:59:15 2025 ; Time taken: 0.078373 seconds
+Last Offer ID: 4
+
+Command: bob_interface.acceptOffer(last_offer_id)
+Current block timestamp: 1735854748
+#######################
+# Calling acceptOffer #
+#######################
+
+Generating proof for Miles2Coins.acceptOffer
+Took 37.4142541885376 s
+Issuing transaction for function "acceptOffer" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 371256
+
+Start time: Thu Jan  2 21:59:15 2025 ; Time taken: 63.107228 seconds
+Offer accepted successfully.
+
+--- Offer #5 ---
+Command: alice_interface.placeOffer(1000, 2, 0)
+Current block timestamp: 1735854749
+######################
+# Calling placeOffer #
+######################
+
+Generating proof for Miles2Coins.placeOffer
+Took 16.419923305511475 s
+Issuing transaction for function "placeOffer" from account "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 400037
+
+Start time: Thu Jan  2 22:00:18 2025 ; Time taken: 32.623580 seconds
+
+Command: bob_interface.listOffers(2)
+Current block timestamp: 1735854750
+######################
+# Calling listOffers #
+######################
+
+Issuing transaction for function "listOffers" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 35410
+
+Start time: Thu Jan  2 22:00:51 2025 ; Time taken: 0.833203 seconds
+
+Command: last_offer_id = bob_interface.state.get_plain('last_offer_id')
+Start time: Thu Jan  2 22:00:52 2025 ; Time taken: 0.070030 seconds
+Last Offer ID: 5
+
+Command: bob_interface.acceptOffer(last_offer_id)
+Current block timestamp: 1735854751
+#######################
+# Calling acceptOffer #
+#######################
+
+Generating proof for Miles2Coins.acceptOffer
+Took 36.77333664894104 s
+Issuing transaction for function "acceptOffer" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 371268
+
+Start time: Thu Jan  2 22:00:52 2025 ; Time taken: 62.596058 seconds
+Offer accepted successfully.
+
+--- Offer #6 ---
+Command: alice_interface.placeOffer(1000, 2, 0)
+Current block timestamp: 1735854752
+######################
+# Calling placeOffer #
+######################
+
+Generating proof for Miles2Coins.placeOffer
+Took 15.769089698791504 s
+Issuing transaction for function "placeOffer" from account "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 400037
+
+Start time: Thu Jan  2 22:01:54 2025 ; Time taken: 32.021315 seconds
+
+Command: bob_interface.listOffers(2)
+Current block timestamp: 1735854753
+######################
+# Calling listOffers #
+######################
+
+Issuing transaction for function "listOffers" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 37742
+
+Start time: Thu Jan  2 22:02:26 2025 ; Time taken: 0.899464 seconds
+
+Command: last_offer_id = bob_interface.state.get_plain('last_offer_id')
+Start time: Thu Jan  2 22:02:27 2025 ; Time taken: 0.062713 seconds
+Last Offer ID: 6
+
+Command: bob_interface.acceptOffer(last_offer_id)
+Current block timestamp: 1735854754
+#######################
+# Calling acceptOffer #
+#######################
+
+Generating proof for Miles2Coins.acceptOffer
+Took 36.214927673339844 s
+Issuing transaction for function "acceptOffer" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 371268
+
+Start time: Thu Jan  2 22:02:27 2025 ; Time taken: 61.925275 seconds
+Offer accepted successfully.
+
+--- Offer #7 ---
+Command: alice_interface.placeOffer(1000, 2, 0)
+Current block timestamp: 1735854755
+######################
+# Calling placeOffer #
+######################
+
+Generating proof for Miles2Coins.placeOffer
+Took 15.738452672958374 s
+Issuing transaction for function "placeOffer" from account "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 400049
+
+Start time: Thu Jan  2 22:03:29 2025 ; Time taken: 31.990841 seconds
+
+Command: bob_interface.listOffers(2)
+Current block timestamp: 1735854756
+######################
+# Calling listOffers #
+######################
+
+Issuing transaction for function "listOffers" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 40074
+
+Start time: Thu Jan  2 22:04:01 2025 ; Time taken: 0.974056 seconds
+
+Command: last_offer_id = bob_interface.state.get_plain('last_offer_id')
+Start time: Thu Jan  2 22:04:02 2025 ; Time taken: 0.062622 seconds
+Last Offer ID: 7
+
+Command: bob_interface.acceptOffer(last_offer_id)
+Current block timestamp: 1735854757
+#######################
+# Calling acceptOffer #
+#######################
+
+Generating proof for Miles2Coins.acceptOffer
+Took 36.97809934616089 s
+Issuing transaction for function "acceptOffer" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 371220
+
+Start time: Thu Jan  2 22:04:02 2025 ; Time taken: 62.714437 seconds
+Offer accepted successfully.
+
+--- Offer #8 ---
+Command: alice_interface.placeOffer(1000, 2, 0)
+Current block timestamp: 1735854758
+######################
+# Calling placeOffer #
+######################
+
+Generating proof for Miles2Coins.placeOffer
+Took 15.992863893508911 s
+Issuing transaction for function "placeOffer" from account "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 400025
+
+Start time: Thu Jan  2 22:05:05 2025 ; Time taken: 32.270782 seconds
+
+Command: bob_interface.listOffers(2)
+Current block timestamp: 1735854759
+######################
+# Calling listOffers #
+######################
+
+Issuing transaction for function "listOffers" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 42406
+
+Start time: Thu Jan  2 22:05:37 2025 ; Time taken: 1.150400 seconds
+
+Command: last_offer_id = bob_interface.state.get_plain('last_offer_id')
+Start time: Thu Jan  2 22:05:39 2025 ; Time taken: 0.062958 seconds
+Last Offer ID: 8
+
+Command: bob_interface.acceptOffer(last_offer_id)
+Current block timestamp: 1735854760
+#######################
+# Calling acceptOffer #
+#######################
+
+Generating proof for Miles2Coins.acceptOffer
+Took 37.34997630119324 s
+Issuing transaction for function "acceptOffer" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 371292
+
+Start time: Thu Jan  2 22:05:39 2025 ; Time taken: 63.057081 seconds
+Offer accepted successfully.
+
+--- Offer #9 ---
+Command: alice_interface.placeOffer(1000, 2, 0)
+Current block timestamp: 1735854761
+######################
+# Calling placeOffer #
+######################
+
+Generating proof for Miles2Coins.placeOffer
+Took 15.578184366226196 s
+Issuing transaction for function "placeOffer" from account "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 400049
+
+Start time: Thu Jan  2 22:06:42 2025 ; Time taken: 31.724327 seconds
+
+Command: bob_interface.listOffers(2)
+Current block timestamp: 1735854762
+######################
+# Calling listOffers #
+######################
+
+Issuing transaction for function "listOffers" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 44738
+
+Start time: Thu Jan  2 22:07:13 2025 ; Time taken: 1.134284 seconds
+
+Command: last_offer_id = bob_interface.state.get_plain('last_offer_id')
+Start time: Thu Jan  2 22:07:15 2025 ; Time taken: 0.066039 seconds
+Last Offer ID: 9
+
+Command: bob_interface.acceptOffer(last_offer_id)
+Current block timestamp: 1735854763
+#######################
+# Calling acceptOffer #
+#######################
+
+Generating proof for Miles2Coins.acceptOffer
+Took 36.685354232788086 s
+Issuing transaction for function "acceptOffer" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 371292
+
+Start time: Thu Jan  2 22:07:15 2025 ; Time taken: 62.213145 seconds
+Offer accepted successfully.
+
+--- Offer #10 ---
+Command: alice_interface.placeOffer(1000, 2, 0)
+Current block timestamp: 1735854764
+######################
+# Calling placeOffer #
+######################
+
+Generating proof for Miles2Coins.placeOffer
+Took 15.613645792007446 s
+Issuing transaction for function "placeOffer" from account "6813eb9362372eef6200f3b1dbc3f819671cba69"
+Consumed gas: 400061
+
+Start time: Thu Jan  2 22:08:17 2025 ; Time taken: 31.790672 seconds
+
+Command: bob_interface.listOffers(2)
+Current block timestamp: 1735854765
+######################
+# Calling listOffers #
+######################
+
+Issuing transaction for function "listOffers" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 47070
+
+Start time: Thu Jan  2 22:08:49 2025 ; Time taken: 1.278964 seconds
+
+Command: last_offer_id = bob_interface.state.get_plain('last_offer_id')
+Start time: Thu Jan  2 22:08:50 2025 ; Time taken: 0.067658 seconds
+Last Offer ID: 10
+
+Command: bob_interface.acceptOffer(last_offer_id)
+Current block timestamp: 1735854766
+#######################
+# Calling acceptOffer #
+#######################
+
+Generating proof for Miles2Coins.acceptOffer
+Took 36.846033573150635 s
+Issuing transaction for function "acceptOffer" from account "1eff47bc3a10a45d4b230b5d10e37751fe6aa718"
+Consumed gas: 371292
+
+Start time: Thu Jan  2 22:08:50 2025 ; Time taken: 62.401788 seconds
+Offer accepted successfully.
+
+>>> exec(open('03_check_balances.py').read())
+Command: alice_miles_balance = alice_interface.getMilesBalance()
+Current block timestamp: 1735854767
+###########################
+# Calling getMilesBalance #
+###########################
+
+Start time: Thu Jan  2 22:10:00 2025 ; Time taken: 6.633196 seconds
+Alice's MilesTokens (final): 10000
+
+Command: alice_surreal_balance = alice_interface.getSurrealBalance()
+Current block timestamp: 1735854767
+#############################
+# Calling getSurrealBalance #
+#############################
+
+Start time: Thu Jan  2 22:10:06 2025 ; Time taken: 6.606985 seconds
+Alice's SurrealCoins (final): 20000
+
+Command: bob_miles_balance = bob_interface.getMilesBalance()
+Current block timestamp: 1735854767
+###########################
+# Calling getMilesBalance #
+###########################
+
+Start time: Thu Jan  2 22:10:13 2025 ; Time taken: 6.636604 seconds
+Bob's MilesTokens (final): 10000
+
+Command: bob_surreal_balance = bob_interface.getSurrealBalance()
+Current block timestamp: 1735854767
+#############################
+# Calling getSurrealBalance #
+#############################
+
+Start time: Thu Jan  2 22:10:20 2025 ; Time taken: 6.518769 seconds
+Bob's SurrealCoins (final): 20000
+
+>>>
+now exiting InteractiveConsole...

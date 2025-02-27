@@ -1,0 +1,59 @@
+# zkay compile miles2coins.zkay -o miles2coins_compiled
+Using solc version v0.6.12
+Compiling file miles2coins.zkay:
+Parsing... done
+Type checking with solc...
+
+WARNING:
+At line: 135;5
+    function listOffers(uint8 filter) public {
+----/
+
+Function state mutability can be restricted to view
+
+
+WARNING:
+At line: 140;21
+                    uint32 amt  = offer_amount[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 141;21
+                    uint32 prc  = offer_price[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 142;21
+                    address cr  = offer_creator[i];
+--------------------/
+
+Unused local variable.
+
+
+WARNING:
+At line: 143;21
+                    bool active = offer_is_active[i];
+--------------------/
+
+Unused local variable.
+
+
+done
+Preprocessing AST... done
+Zkay type checking... done
+Transforming zkay -> public contract... done
+Write library contract files... done
+Write public solidity code... done
+Writing manifest file... done
+Compiling 4 circuits...
+Took 4.134972095489502 s
+Generating keys for 4 circuits...
+Took 103.68030214309692 s
+Write verification contracts... done
+Finished successfully

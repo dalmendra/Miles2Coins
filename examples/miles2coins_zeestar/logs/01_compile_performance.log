@@ -1,0 +1,2667 @@
+top - 20:40:55 up 1 day, 35 min,  0 users,  load average: 0.00, 0.00, 0.00
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5791.9 free,   1207.6 used,    877.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6362.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+
+top - 20:40:56 up 1 day, 35 min,  0 users,  load average: 0.00, 0.00, 0.00
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5791.9 free,   1207.6 used,    877.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6362.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+
+top - 20:40:57 up 1 day, 35 min,  0 users,  load average: 0.00, 0.00, 0.00
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5791.9 free,   1207.6 used,    877.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6362.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+
+top - 20:40:58 up 1 day, 35 min,  0 users,  load average: 0.00, 0.00, 0.00
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.0 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5791.9 free,   1207.6 used,    877.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6362.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+
+top - 20:40:59 up 1 day, 35 min,  0 users,  load average: 0.00, 0.00, 0.00
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5791.9 free,   1207.6 used,    877.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6362.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+
+top - 20:41:00 up 1 day, 35 min,  0 users,  load average: 0.00, 0.00, 0.00
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  0.2 sy,  0.0 ni, 98.0 id,  0.7 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   5791.9 free,   1207.6 used,    877.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6362.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  159 root      20   0   24356  20580   8324 D  11.0   0.3   0:00.11 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+
+top - 20:41:01 up 1 day, 35 min,  0 users,  load average: 0.08, 0.02, 0.01
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.1 us,  2.4 sy,  0.0 ni, 90.7 id,  1.4 wa,  0.0 hi,  0.3 si,  0.0 st
+MiB Mem :   7877.2 total,   5727.0 free,   1240.4 used,    909.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6328.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  159 root      20   0   52444  48076  10032 D  82.0   0.6   0:00.93 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+
+top - 20:41:02 up 1 day, 35 min,  0 users,  load average: 0.08, 0.02, 0.01
+Tasks:   5 total,   2 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.3 us,  1.3 sy,  0.0 ni, 91.2 id,  0.7 wa,  0.0 hi,  0.4 si,  0.0 st
+MiB Mem :   7877.2 total,   5727.0 free,   1240.4 used,    909.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6328.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  159 root      20   0   64436  59784  11184 R  90.0   0.7   0:01.83 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+
+top - 20:41:03 up 1 day, 35 min,  0 users,  load average: 0.08, 0.02, 0.01
+Tasks:   9 total,   5 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.7 us,  3.4 sy,  0.0 ni, 88.5 id,  0.8 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :   7877.2 total,   5727.0 free,   1240.4 used,    909.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6328.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  159 root      20   0  296052  71700  12128 S  86.0   0.9   0:02.69 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  175 root      20   0   84676  68852   3412 R   8.0   0.9   0:00.08 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  176 root      20   0   81408  65820   3412 R   7.0   0.8   0:00.07 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  178 root      20   0   79480  63748   3412 R   3.0   0.8   0:00.03 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  177 root      20   0   77008  61256   3412 R   2.0   0.8   0:00.02 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+
+top - 20:41:04 up 1 day, 35 min,  0 users,  load average: 0.08, 0.02, 0.01
+Tasks:  13 total,   1 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 46.9 us,  7.1 sy,  0.0 ni, 39.8 id,  4.5 wa,  0.0 hi,  1.8 si,  0.0 st
+MiB Mem :   7877.2 total,   5297.3 free,   1620.6 used,    959.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5948.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  182 root      20   0 5028100  79596  33588 S 150.0   1.0   0:01.50 javac -cp /zkay/zkay/jsnark_interface/JsnarkCircuitBuilder.jar /zkay/eval-sp2022/dani+
+  183 root      20   0 5027904  79876  33808 S 147.0   1.0   0:01.47 javac -cp /zkay/zkay/jsnark_interface/JsnarkCircuitBuilder.jar /zkay/eval-sp2022/dani+
+  184 root      20   0 5028100  80676  33608 S 147.0   1.0   0:01.47 javac -cp /zkay/zkay/jsnark_interface/JsnarkCircuitBuilder.jar /zkay/eval-sp2022/dani+
+  185 root      20   0 5028100  77228  33776 S 142.0   1.0   0:01.42 javac -cp /zkay/zkay/jsnark_interface/JsnarkCircuitBuilder.jar /zkay/eval-sp2022/dani+
+  178 root      20   0   86608  72564   4864 S  21.0   0.9   0:00.24 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  177 root      20   0   86608  72564   4864 S  20.0   0.9   0:00.22 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  175 root      20   0   86608  72548   4856 S  19.0   0.9   0:00.27 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  176 root      20   0   86608  72564   4868 S  19.0   0.9   0:00.26 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+  159 root      20   0  296052  71700  12128 S   0.0   0.9   0:02.69 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:05 up 1 day, 35 min,  0 users,  load average: 0.08, 0.02, 0.01
+Tasks:  13 total,   1 running,  12 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 83.6 us,  6.6 sy,  0.0 ni,  9.6 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7877.2 total,   5297.3 free,   1620.6 used,    959.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5948.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  275 root      20   0   20.0g 342560  25752 S 291.1   4.2   0:02.94 java -Xms4096m -Xmx16384m -cp /zkay/zkay/jsnark_interface/JsnarkCircuitBuilder.jar:/z+
+  270 root      20   0   19.3g 283948  25768 S 243.6   3.5   0:02.46 java -Xms4096m -Xmx16384m -cp /zkay/zkay/jsnark_interface/JsnarkCircuitBuilder.jar:/z+
+  284 root      20   0   19.3g 264016  25860 S 221.8   3.3   0:02.24 java -Xms4096m -Xmx16384m -cp /zkay/zkay/jsnark_interface/JsnarkCircuitBuilder.jar:/z+
+  314 root      20   0   19.2g 191204  25864 S 186.1   2.4   0:01.88 java -Xms4096m -Xmx16384m -cp /zkay/zkay/jsnark_interface/JsnarkCircuitBuilder.jar:/z+
+  175 root      20   0   86608  72560   4868 S   2.0   0.9   0:00.29 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+  159 root      20   0  296052  71700  12128 S   0.0   0.9   0:02.69 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  176 root      20   0   86608  72564   4868 S   0.0   0.9   0:00.26 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  177 root      20   0   86608  72564   4864 S   0.0   0.9   0:00.22 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  178 root      20   0   86608  72564   4864 S   0.0   0.9   0:00.24 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:06 up 1 day, 35 min,  0 users,  load average: 1.84, 0.38, 0.12
+Tasks:  11 total,   1 running,  10 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 80.5 us,  8.4 sy,  0.0 ni, 10.7 id,  0.0 wa,  0.0 hi,  0.4 si,  0.0 st
+MiB Mem :   7877.2 total,   5297.3 free,   1620.6 used,    959.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5948.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  314 root      20   0   20.3g 572732  25980 S 344.0   7.1   0:05.32 java -Xms4096m -Xmx16384m -cp /zkay/zkay/jsnark_interface/JsnarkCircuitBuilder.jar:/z+
+  284 root      20   0   20.2g 453584  25928 S 280.0   5.6   0:05.04 java -Xms4096m -Xmx16384m -cp /zkay/zkay/jsnark_interface/JsnarkCircuitBuilder.jar:/z+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+  159 root      20   0  296052  71700  12128 S   0.0   0.9   0:02.69 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  175 root      20   0   86608  72564   4872 S   0.0   0.9   0:00.29 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  176 root      20   0   86608  72568   4872 S   0.0   0.9   0:00.26 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  177 root      20   0   86608  72564   4864 S   0.0   0.9   0:00.22 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  178 root      20   0   86608  72564   4864 S   0.0   0.9   0:00.24 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:07 up 1 day, 35 min,  0 users,  load average: 1.84, 0.38, 0.12
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.6 us,  1.2 sy,  0.0 ni, 78.7 id,  0.1 wa,  0.0 hi,  0.4 si,  0.0 st
+MiB Mem :   7877.2 total,   5475.6 free,   1300.1 used,   1101.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6268.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0   38760  33952   5016 R   9.0   0.4   0:00.09 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.69 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:08 up 1 day, 35 min,  0 users,  load average: 1.84, 0.38, 0.12
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.2 us,  0.6 sy,  0.0 ni, 91.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5475.6 free,   1300.1 used,   1101.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6268.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0  168592 163404   5072 R 100.0   2.0   0:01.09 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+  159 root      20   0  296052  71956  12368 S   1.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+
+top - 20:41:09 up 1 day, 35 min,  0 users,  load average: 1.84, 0.38, 0.12
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.8 us,  0.6 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5475.6 free,   1300.1 used,   1101.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6268.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0  353348 347332   5072 R 100.0   4.3   0:02.09 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.00 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:10 up 1 day, 35 min,  0 users,  load average: 1.84, 0.38, 0.12
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.4 us,  2.1 sy,  0.0 ni, 91.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5091.0 free,   1684.6 used,   1101.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5884.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0  439756 429904   5072 R 100.0   5.3   0:03.10 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+  158 root      20   0    7864   3000   2644 R   1.0   0.0   0:00.01 top -bc -d 1 -n 600
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:11 up 1 day, 35 min,  0 users,  load average: 1.77, 0.39, 0.13
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.4 us,  1.1 sy,  0.0 ni, 91.4 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5091.0 free,   1684.6 used,   1101.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5884.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0  548584 542760   5072 R 100.0   6.7   0:04.11 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:12 up 1 day, 35 min,  0 users,  load average: 1.77, 0.39, 0.13
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.8 us,  0.3 sy,  0.0 ni, 91.8 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   5091.0 free,   1684.6 used,   1101.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5884.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0  687180 625384   5072 R  99.0   7.8   0:05.10 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:13 up 1 day, 35 min,  0 users,  load average: 1.77, 0.39, 0.13
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11.8 us,  1.7 sy,  0.0 ni, 84.7 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+MiB Mem :   7877.2 total,   4705.4 free,   2070.2 used,   1101.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5499.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1617864 829388   5072 R 162.0  10.3   0:06.72 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:14 up 1 day, 35 min,  0 users,  load average: 1.77, 0.39, 0.13
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 42.9 us,  3.7 sy,  0.0 ni, 53.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4705.4 free,   2070.2 used,   1101.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5499.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1512648 861564   5076 R 554.0  10.7   0:12.26 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:15 up 1 day, 35 min,  0 users,  load average: 1.77, 0.39, 0.13
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  0.0 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4705.4 free,   2070.2 used,   1101.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5499.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1512648 861564   5076 R 100.0  10.7   0:13.26 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:16 up 1 day, 35 min,  0 users,  load average: 1.71, 0.40, 0.13
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.1 us,  0.4 sy,  0.0 ni, 91.4 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   4620.0 free,   2155.5 used,   1101.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5413.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1571016 919896   5116 R  99.0  11.4   0:14.25 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:17 up 1 day, 35 min,  0 users,  load average: 1.71, 0.40, 0.13
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.7 us,  0.2 sy,  0.0 ni, 66.9 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4620.0 free,   2155.5 used,   1101.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5413.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1605220 953920   5116 R 389.0  11.8   0:18.14 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:18 up 1 day, 35 min,  0 users,  load average: 1.71, 0.40, 0.13
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96.3 us,  0.3 sy,  0.0 ni,  3.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4620.0 free,   2155.5 used,   1101.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5413.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1605220 974192   5116 R  1147  12.1   0:29.72 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:19 up 1 day, 35 min,  0 users,  load average: 1.71, 0.40, 0.13
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 91.5 us,  0.3 sy,  0.0 ni,  8.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4447.8 free,   2326.5 used,   1102.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5243.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1727244   1.0g   5116 R  1101  13.5   0:40.73 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:20 up 1 day, 35 min,  0 users,  load average: 1.71, 0.40, 0.13
+Tasks:   6 total,   1 running,   5 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 98.1 us,  0.1 sy,  0.0 ni,  1.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4447.8 free,   2326.5 used,   1102.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5243.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1761448   1.1g   5116 S  1180  14.0   0:52.53 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:21 up 1 day, 35 min,  0 users,  load average: 1.65, 0.41, 0.14
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.8 us,  0.3 sy,  0.0 ni, 91.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4447.8 free,   2326.5 used,   1102.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5243.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1687448   1.0g   5116 R 105.0  13.1   0:53.58 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:22 up 1 day, 35 min,  0 users,  load average: 1.65, 0.41, 0.14
+Tasks:   6 total,   1 running,   5 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.8 us,  0.5 sy,  0.0 ni, 91.5 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4422.9 free,   2290.9 used,   1163.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5278.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1687448   1.0g   5116 D 100.0  13.1   0:54.58 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:23 up 1 day, 35 min,  0 users,  load average: 1.65, 0.41, 0.14
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.5 us,  0.6 sy,  0.0 ni, 90.1 id,  0.1 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :   7877.2 total,   4422.9 free,   2290.9 used,   1163.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5278.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1687448   1.0g   5116 R  99.0  13.1   0:55.58 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:24 up 1 day, 35 min,  0 users,  load average: 1.65, 0.41, 0.14
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.5 us,  1.2 sy,  0.0 ni, 91.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4422.9 free,   2290.9 used,   1163.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5278.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  408 root      20   0 1687448   1.0g   5116 R 100.0  13.1   0:56.58 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:25 up 1 day, 35 min,  0 users,  load average: 1.65, 0.41, 0.14
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.3 us,  1.4 sy,  0.0 ni, 91.2 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   5161.2 free,   1359.7 used,   1356.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6209.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0  102472  97532   5152 R  84.0   1.2   0:00.84 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:26 up 1 day, 35 min,  0 users,  load average: 1.68, 0.44, 0.15
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.7 us,  1.8 sy,  0.0 ni, 91.3 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5161.2 free,   1359.7 used,   1356.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6209.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0  320720 313748   5152 R 100.0   3.9   0:01.84 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:27 up 1 day, 35 min,  0 users,  load average: 1.68, 0.44, 0.15
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.1 us,  1.4 sy,  0.0 ni, 91.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   5161.2 free,   1359.7 used,   1356.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6209.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0  506344 499936   5152 R 100.0   6.2   0:02.84 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.70 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:28 up 1 day, 35 min,  0 users,  load average: 1.68, 0.44, 0.15
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.9 us,  0.5 sy,  0.0 ni, 91.5 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4617.5 free,   1903.3 used,   1356.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5666.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0  711636 655288   5152 R 100.0   8.1   0:03.84 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+  159 root      20   0  296052  71956  12368 S   1.0   0.9   0:02.71 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+
+top - 20:41:29 up 1 day, 35 min,  0 users,  load average: 1.68, 0.44, 0.15
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.5 us,  3.1 sy,  0.0 ni, 64.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4617.5 free,   1903.3 used,   1356.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5666.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1617864 920608   5152 R 438.0  11.4   0:08.22 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.71 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:30 up 1 day, 35 min,  0 users,  load average: 1.68, 0.44, 0.15
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.6 us,  0.3 sy,  0.0 ni, 78.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4617.5 free,   1903.3 used,   1356.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5666.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1512648 863488   5152 R 255.4  10.7   0:10.80 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.71 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:31 up 1 day, 35 min,  0 users,  load average: 1.62, 0.45, 0.15
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  0.1 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4398.1 free,   2122.7 used,   1356.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5446.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1531080 881864   5212 R 100.0  10.9   0:11.80 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.71 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:32 up 1 day, 35 min,  0 users,  load average: 1.62, 0.45, 0.15
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.2 us,  0.2 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4398.1 free,   2122.7 used,   1356.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5446.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1571016 921900   5212 R 100.0  11.4   0:12.80 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.71 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:33 up 1 day, 35 min,  0 users,  load average: 1.62, 0.45, 0.15
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 61.8 us,  0.9 sy,  0.0 ni, 36.2 id,  0.0 wa,  0.0 hi,  1.1 si,  0.0 st
+MiB Mem :   7877.2 total,   4398.1 free,   2122.7 used,   1356.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5446.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1605220 955992   5212 R 745.0  11.9   0:20.25 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.71 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:34 up 1 day, 35 min,  0 users,  load average: 1.62, 0.45, 0.15
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.6 us,  0.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4302.1 free,   2218.7 used,   1356.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5350.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1605220 982988   5212 R  1200  12.2   0:32.25 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.01 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.71 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:35 up 1 day, 35 min,  0 users,  load average: 1.62, 0.45, 0.15
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 84.9 us,  1.0 sy,  0.0 ni, 14.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4302.1 free,   2218.7 used,   1356.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5350.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1761448   1.1g   5212 R  1030  14.0   0:42.55 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+  158 root      20   0    7864   3000   2644 R   1.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   1.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+
+top - 20:41:36 up 1 day, 35 min,  0 users,  load average: 2.45, 0.64, 0.22
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 60.6 us,  0.1 sy,  0.0 ni, 39.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4302.1 free,   2218.7 used,   1356.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5350.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1687448   1.0g   5212 R 733.0  13.1   0:49.88 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:37 up 1 day, 35 min,  0 users,  load average: 2.45, 0.64, 0.22
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.1 us,  0.3 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4182.7 free,   2294.1 used,   1400.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5275.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1687448   1.0g   5212 R 100.0  13.1   0:50.89 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:38 up 1 day, 35 min,  0 users,  load average: 2.45, 0.64, 0.22
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.2 us,  0.1 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4182.7 free,   2294.1 used,   1400.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5275.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1687448   1.0g   5212 R 100.0  13.1   0:51.89 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:39 up 1 day, 35 min,  0 users,  load average: 2.45, 0.64, 0.22
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.8 us,  0.6 sy,  0.0 ni, 91.6 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4182.7 free,   2294.1 used,   1400.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5275.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  420 root      20   0 1687448   1.0g   5212 R 100.0  13.1   0:52.89 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:40 up 1 day, 35 min,  0 users,  load average: 2.45, 0.64, 0.22
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.7 us,  2.6 sy,  0.0 ni, 91.1 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :   7877.2 total,   4962.5 free,   1304.7 used,   1610.0 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6264.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0   48640  43924   4984 R  37.0   0.5   0:00.37 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:41 up 1 day, 35 min,  0 users,  load average: 2.34, 0.65, 0.22
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.8 us,  0.5 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   4962.5 free,   1304.7 used,   1610.0 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6264.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0  223172 218032   5060 R 100.0   2.7   0:01.37 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:42 up 1 day, 35 min,  0 users,  load average: 2.34, 0.65, 0.22
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.8 us,  0.8 sy,  0.0 ni, 91.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4962.5 free,   1304.7 used,   1610.0 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6264.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0  489732 483528   5060 R 100.0   6.0   0:02.37 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:43 up 1 day, 35 min,  0 users,  load average: 2.34, 0.65, 0.22
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.8 us,  0.7 sy,  0.0 ni, 90.2 id,  0.0 wa,  0.0 hi,  1.4 si,  0.0 st
+MiB Mem :   7877.2 total,   4334.3 free,   1932.9 used,   1610.0 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5636.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0  695832 688740   5060 R 100.0   8.5   0:03.37 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:44 up 1 day, 35 min,  0 users,  load average: 2.34, 0.65, 0.22
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.8 us,  0.9 sy,  0.0 ni, 91.0 id,  0.0 wa,  0.0 hi,  0.3 si,  0.0 st
+MiB Mem :   7877.2 total,   4334.3 free,   1932.9 used,   1610.0 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5636.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0  962048 880396   5060 R 100.0  10.9   0:04.38 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:45 up 1 day, 35 min,  0 users,  load average: 2.34, 0.65, 0.22
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.6 us,  0.8 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4334.3 free,   1932.9 used,   1610.0 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5636.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 1075444 998.6m   5060 R 100.0  12.7   0:05.38 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:46 up 1 day, 35 min,  0 users,  load average: 2.23, 0.65, 0.23
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.6 us,  5.7 sy,  0.0 ni, 78.5 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   3790.7 free,   2476.4 used,   1610.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5093.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 1986112   1.2g   5060 R 252.0  15.5   0:07.90 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:47 up 1 day, 35 min,  0 users,  load average: 2.23, 0.65, 0.23
+Tasks:   6 total,   1 running,   5 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.4 us, 11.4 sy,  0.0 ni, 79.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3790.7 free,   2476.4 used,   1610.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5093.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 1986112   1.3g   5060 S 248.0  16.5   0:10.38 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:48 up 1 day, 35 min,  0 users,  load average: 2.23, 0.65, 0.23
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us, 11.9 sy,  0.0 ni, 82.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3790.7 free,   2476.4 used,   1610.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5093.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 1860276   1.2g   5060 R 202.0  15.8   0:12.40 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:49 up 1 day, 35 min,  0 users,  load average: 2.23, 0.65, 0.23
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  0.0 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3773.5 free,   2493.4 used,   1610.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5076.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 1852080   1.2g   5060 R  99.0  15.7   0:13.39 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:50 up 1 day, 35 min,  0 users,  load average: 2.23, 0.65, 0.23
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.2 us,  0.1 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3773.5 free,   2493.4 used,   1610.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5076.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 1852080   1.2g   5060 R 100.0  15.7   0:14.39 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:51 up 1 day, 35 min,  0 users,  load average: 2.13, 0.66, 0.23
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.2 us,  0.2 sy,  0.0 ni, 91.4 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3773.5 free,   2493.4 used,   1610.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5076.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 1925816   1.3g   5060 R 100.0  16.6   0:15.40 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:52 up 1 day, 35 min,  0 users,  load average: 2.13, 0.66, 0.23
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.2 us,  0.2 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3626.8 free,   2640.1 used,   1610.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4929.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 1999544   1.3g   5164 R  99.0  17.5   0:16.39 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:53 up 1 day, 35 min,  0 users,  load average: 2.13, 0.66, 0.23
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.8 us,  0.2 sy,  0.0 ni, 72.2 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :   7877.2 total,   3626.8 free,   2640.1 used,   1610.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4929.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 2045124   1.4g   5164 R 316.0  18.1   0:19.55 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.72 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:54 up 1 day, 36 min,  0 users,  load average: 2.13, 0.66, 0.23
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 93.8 us,  1.0 sy,  0.0 ni,  5.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3626.8 free,   2640.1 used,   1610.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4929.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 2045124   1.4g   5164 R  1136  18.4   0:30.91 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+  159 root      20   0  296052  71956  12368 S   1.0   0.9   0:02.73 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+
+top - 20:41:55 up 1 day, 36 min,  0 users,  load average: 2.13, 0.66, 0.23
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.2 us,  0.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3542.3 free,   2724.5 used,   1610.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4845.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 2045124   1.4g   5164 R  1199  18.6   0:42.90 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.73 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:56 up 1 day, 36 min,  0 users,  load average: 2.92, 0.85, 0.29
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 83.5 us,  1.1 sy,  0.0 ni, 15.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3542.3 free,   2724.5 used,   1610.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4845.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 2211688   1.6g   5164 R  1016  20.4   0:53.06 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.73 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:57 up 1 day, 36 min,  0 users,  load average: 2.92, 0.85, 0.29
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 79.6 us,  0.9 sy,  0.0 ni, 19.2 id,  0.2 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   3542.3 free,   2724.5 used,   1610.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4845.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 2211688   1.6g   5164 R 969.0  20.5   1:02.75 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.73 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:58 up 1 day, 36 min,  0 users,  load average: 2.92, 0.85, 0.29
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.1 us,  1.3 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3369.6 free,   2868.5 used,   1639.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4701.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 2211688   1.6g   5164 R 100.0  20.5   1:03.76 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.73 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:41:59 up 1 day, 36 min,  0 users,  load average: 2.92, 0.85, 0.29
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.5 us,  0.8 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3369.6 free,   2868.5 used,   1639.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4701.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 2211688   1.6g   5164 R 100.0  20.5   1:04.76 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.73 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:00 up 1 day, 36 min,  0 users,  load average: 2.92, 0.85, 0.29
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.1 us,  0.3 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3369.6 free,   2868.5 used,   1639.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4701.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 2211688   1.6g   5164 R 100.0  20.5   1:05.76 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.73 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:01 up 1 day, 36 min,  0 users,  load average: 2.77, 0.85, 0.30
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.2 us,  0.2 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3279.1 free,   2868.8 used,   1729.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4700.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 2211688   1.6g   5164 R 100.0  20.5   1:06.76 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.73 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:02 up 1 day, 36 min,  0 users,  load average: 2.77, 0.85, 0.30
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.5 us,  1.8 sy,  0.0 ni, 91.3 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3279.1 free,   2868.8 used,   1729.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4700.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  432 root      20   0 2211688   1.6g   5164 R  98.0  20.5   1:07.74 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.02 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.73 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:03 up 1 day, 36 min,  0 users,  load average: 2.77, 0.85, 0.30
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.5 us,  1.5 sy,  0.0 ni, 89.4 id,  0.0 wa,  0.0 hi,  1.6 si,  0.0 st
+MiB Mem :   7877.2 total,   3279.1 free,   2868.8 used,   1729.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4700.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0  100880  96400   5092 R  58.0   1.2   0:00.58 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+  158 root      20   0    7864   3000   2644 R   1.0   0.0   0:00.03 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   1.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+
+top - 20:42:04 up 1 day, 36 min,  0 users,  load average: 2.77, 0.85, 0.30
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.0 us,  0.7 sy,  0.0 ni, 90.7 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :   7877.2 total,   4549.1 free,   1350.7 used,   1977.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6218.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0  100880  96400   5092 R 100.0   1.2   0:01.60 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+  158 root      20   0    7864   3000   2644 R   1.0   0.0   0:00.04 top -bc -d 1 -n 600
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:05 up 1 day, 36 min,  0 users,  load average: 2.77, 0.85, 0.30
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.6 us,  1.3 sy,  0.0 ni, 91.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4549.1 free,   1350.7 used,   1977.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6218.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0  307292 301576   5092 R 100.0   3.7   0:02.60 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:06 up 1 day, 36 min,  0 users,  load average: 2.63, 0.85, 0.30
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.7 us,  0.6 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   4549.1 free,   1350.7 used,   1977.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6218.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0  611192 604536   5092 R 100.0   7.5   0:03.60 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:07 up 1 day, 36 min,  0 users,  load average: 2.63, 0.85, 0.30
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.3 us,  2.1 sy,  0.0 ni, 91.4 id,  0.1 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   3835.2 free,   2064.6 used,   1977.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5504.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0  838412 825808   5092 R 100.0  10.2   0:04.61 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:08 up 1 day, 36 min,  0 users,  load average: 2.63, 0.85, 0.30
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.2 us,  1.1 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3835.2 free,   2064.6 used,   1977.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5504.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 1031440   1.0g   5092 R 100.0  12.7   0:05.61 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:09 up 1 day, 36 min,  0 users,  load average: 2.63, 0.85, 0.30
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.7 us,  0.8 sy,  0.0 ni, 91.4 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   3835.2 free,   2064.6 used,   1977.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5504.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 1232516   1.2g   5092 R 100.0  15.1   0:06.61 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:10 up 1 day, 36 min,  0 users,  load average: 2.63, 0.85, 0.30
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.1 us,  0.2 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3282.3 free,   2617.5 used,   1977.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4952.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 1402652   1.3g   5092 R 100.0  17.3   0:07.61 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:11 up 1 day, 36 min,  0 users,  load average: 2.50, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.2 us,  1.2 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3282.3 free,   2617.5 used,   1977.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4952.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 1566748   1.5g   5092 R 100.0  19.4   0:08.62 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:12 up 1 day, 36 min,  0 users,  load average: 2.50, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.6 us,  0.7 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3282.3 free,   2617.5 used,   1977.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4952.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 1832052   1.7g   5092 R 100.0  22.3   0:09.62 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:13 up 1 day, 36 min,  0 users,  load average: 2.50, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.9 us,  0.9 sy,  0.0 ni, 90.3 id,  0.1 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :   7877.2 total,   2736.6 free,   3163.2 used,   1977.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4406.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 2170516   1.9g   5092 R 100.0  24.2   0:10.62 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:14 up 1 day, 36 min,  0 users,  load average: 2.50, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.5 us,  0.9 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   2736.6 free,   3163.2 used,   1977.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4406.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 2270980   2.0g   5092 R 100.0  25.6   0:11.62 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:15 up 1 day, 36 min,  0 users,  load average: 2.50, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.5 us,  0.9 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   2736.6 free,   3163.2 used,   1977.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4406.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 2373924   2.1g   5092 R 100.0  27.0   0:12.62 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:16 up 1 day, 36 min,  0 users,  load average: 2.38, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.3 us,  1.3 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   2282.2 free,   3617.5 used,   1977.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3952.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 2515284   2.3g   5092 R 100.0  29.9   0:13.62 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:17 up 1 day, 36 min,  0 users,  load average: 2.38, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.7 us,  0.7 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   2282.2 free,   3617.5 used,   1977.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3952.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 2599288   2.4g   5092 R 100.0  31.8   0:14.62 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:18 up 1 day, 36 min,  0 users,  load average: 2.38, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.3 us,  9.1 sy,  0.0 ni, 50.3 id,  0.2 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   2282.2 free,   3617.5 used,   1977.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3952.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3492020   2.7g   5092 R 597.0  35.5   0:20.65 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:19 up 1 day, 36 min,  0 users,  load average: 2.38, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.2 us, 15.3 sy,  0.0 ni, 59.9 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :   7877.2 total,   1602.9 free,   4296.7 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3272.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3495056   3.0g   5092 R 481.0  38.5   0:25.46 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:20 up 1 day, 36 min,  0 users,  load average: 2.38, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.4 us,  1.5 sy,  0.0 ni, 83.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1602.9 free,   4296.7 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3272.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3150140   2.7g   5092 R 186.0  35.1   0:27.32 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:21 up 1 day, 36 min,  0 users,  load average: 2.27, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  0.0 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1602.9 free,   4296.7 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3272.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3150140   2.7g   5092 R 100.0  35.1   0:28.32 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:22 up 1 day, 36 min,  0 users,  load average: 2.27, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.2 us,  0.2 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1877.5 free,   4022.1 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3547.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3150140   2.7g   5092 R  98.0  35.1   0:29.30 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:23 up 1 day, 36 min,  0 users,  load average: 2.27, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.5 us,  0.2 sy,  0.0 ni, 89.9 id,  0.0 wa,  0.0 hi,  1.4 si,  0.0 st
+MiB Mem :   7877.2 total,   1877.5 free,   4022.1 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3547.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3150140   2.7g   5092 R 100.0  35.1   0:30.30 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:24 up 1 day, 36 min,  0 users,  load average: 2.27, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  0.2 sy,  0.0 ni, 90.8 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :   7877.2 total,   1877.5 free,   4022.1 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3547.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3150140   2.7g   5092 R 100.0  35.1   0:31.31 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.04 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:25 up 1 day, 36 min,  0 users,  load average: 2.27, 0.86, 0.31
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.4 us,  0.2 sy,  0.0 ni, 91.4 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1875.5 free,   4024.1 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3545.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3150140   2.7g   5092 R 100.0  35.1   0:32.31 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+  158 root      20   0    7864   3000   2644 R   1.0   0.0   0:00.05 top -bc -d 1 -n 600
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:26 up 1 day, 36 min,  0 users,  load average: 2.16, 0.86, 0.32
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  0.0 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   1875.5 free,   4024.1 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3545.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3150140   2.7g   5092 R 100.0  35.1   0:33.31 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:27 up 1 day, 36 min,  0 users,  load average: 2.16, 0.86, 0.32
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  0.0 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1875.5 free,   4024.1 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3545.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3150140   2.7g   5092 R 100.0  35.1   0:34.31 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:28 up 1 day, 36 min,  0 users,  load average: 2.16, 0.86, 0.32
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  0.0 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1875.5 free,   4024.1 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3545.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3150140   2.7g   5092 R 100.0  35.1   0:35.31 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:29 up 1 day, 36 min,  0 users,  load average: 2.16, 0.86, 0.32
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 89.8 us,  0.4 sy,  0.0 ni,  9.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1875.5 free,   4024.1 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3545.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3258384   2.8g   5160 R  1078  36.4   0:46.09 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:30 up 1 day, 36 min,  0 users,  load average: 2.16, 0.86, 0.32
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 91.8 us,  0.1 sy,  0.0 ni,  8.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1875.5 free,   4024.1 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3545.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3258384   2.8g   5160 R  1102  36.6   0:57.11 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:31 up 1 day, 36 min,  0 users,  load average: 2.95, 1.05, 0.38
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.8 us,  0.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1726.6 free,   4173.0 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3396.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3258384   2.8g   5160 R  1200  37.0   1:09.21 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:32 up 1 day, 36 min,  0 users,  load average: 2.95, 1.05, 0.38
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.9 us,  0.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1726.6 free,   4173.0 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3396.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3258384   2.9g   5160 R  1189  37.4   1:21.22 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:33 up 1 day, 36 min,  0 users,  load average: 2.95, 1.05, 0.38
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99.8 us,  0.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1726.6 free,   4173.0 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3396.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3258384   2.9g   5160 R  1191  37.6   1:33.13 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.74 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:34 up 1 day, 36 min,  0 users,  load average: 2.95, 1.05, 0.38
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 84.2 us,  1.1 sy,  0.0 ni, 14.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1454.9 free,   4444.7 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3124.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3533480   3.1g   5160 R  1023  40.4   1:43.36 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+  159 root      20   0  296052  71956  12368 S   1.0   0.9   0:02.75 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+
+top - 20:42:35 up 1 day, 36 min,  0 users,  load average: 2.95, 1.05, 0.38
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1454.9 free,   4444.7 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3124.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3533480   3.1g   5160 R  1199  40.4   1:55.35 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.75 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:36 up 1 day, 36 min,  0 users,  load average: 3.04, 1.10, 0.40
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 91.5 us,  0.3 sy,  0.0 ni,  8.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1454.9 free,   4444.7 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3124.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R  1102  41.8   2:06.37 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.75 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:37 up 1 day, 36 min,  0 users,  load average: 3.04, 1.10, 0.40
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1348.7 free,   4550.9 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3018.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R  1199  41.8   2:18.36 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.75 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:38 up 1 day, 36 min,  0 users,  load average: 3.04, 1.10, 0.40
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.3 us,  0.2 sy,  0.0 ni, 69.5 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   1348.7 free,   4550.9 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3018.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R 359.4  41.8   2:21.99 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+  159 root      20   0  296052  71956  12368 S   1.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+
+top - 20:42:39 up 1 day, 36 min,  0 users,  load average: 3.04, 1.10, 0.40
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.0 us,  0.3 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1348.7 free,   4550.9 used,   1977.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3018.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R 100.0  41.8   2:22.99 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:40 up 1 day, 36 min,  0 users,  load average: 3.04, 1.10, 0.40
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.1 us,  0.2 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1265.5 free,   4551.7 used,   2059.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3017.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R 100.0  41.8   2:23.99 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:41 up 1 day, 36 min,  0 users,  load average: 2.87, 1.10, 0.40
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.1 us,  0.2 sy,  0.0 ni, 91.5 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1265.5 free,   4551.7 used,   2059.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3017.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R  99.0  41.8   2:24.98 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:42 up 1 day, 36 min,  0 users,  load average: 2.87, 1.10, 0.40
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.1 us,  0.3 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1265.5 free,   4551.7 used,   2059.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3017.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R 100.0  41.8   2:25.98 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:43 up 1 day, 36 min,  0 users,  load average: 2.87, 1.10, 0.40
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.0 us,  0.8 sy,  0.0 ni, 90.4 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :   7877.2 total,   1167.2 free,   4554.1 used,   2155.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3015.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R 100.0  41.8   2:26.98 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:44 up 1 day, 36 min,  0 users,  load average: 2.87, 1.10, 0.40
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.0 us,  0.4 sy,  0.0 ni, 91.5 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   1167.2 free,   4554.1 used,   2155.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3015.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R 100.0  41.8   2:27.98 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:45 up 1 day, 36 min,  0 users,  load average: 2.87, 1.10, 0.40
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.1 us,  0.3 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1167.2 free,   4554.1 used,   2155.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3015.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R 100.0  41.8   2:28.99 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:46 up 1 day, 36 min,  0 users,  load average: 2.72, 1.09, 0.41
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.0 us,  0.4 sy,  0.0 ni, 91.4 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1083.5 free,   4554.5 used,   2239.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3015.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R  99.0  41.8   2:29.98 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:47 up 1 day, 36 min,  0 users,  load average: 2.72, 1.09, 0.41
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.2 us,  0.1 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   1083.5 free,   4554.5 used,   2239.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3015.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R 100.0  41.8   2:30.98 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:48 up 1 day, 36 min,  0 users,  load average: 2.72, 1.09, 0.41
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.4 us,  2.6 sy,  0.0 ni, 90.7 id,  0.2 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   1083.5 free,   4554.5 used,   2239.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3015.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R  97.0  41.8   2:31.95 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:49 up 1 day, 36 min,  0 users,  load average: 2.72, 1.09, 0.41
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.2 us,  3.2 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,    674.2 free,   4555.7 used,   2647.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3013.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3641724   3.2g   5160 R 100.0  41.8   2:32.95 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:50 up 1 day, 36 min,  0 users,  load average: 2.72, 1.09, 0.41
+Tasks:   6 total,   2 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.2 us,  2.2 sy,  0.0 ni, 91.5 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,    674.2 free,   4555.7 used,   2647.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3013.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  444 root      20   0 3150140   2.8g   5160 R 100.0  36.3   2:33.95 /zkay/zkay/jsnark_interface/run_snark keygen /zkay/eval-sp2022/daniel/miles2coins_202+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.05 top -bc -d 1 -n 600
+  159 root      20   0  296052  71956  12368 S   0.0   0.9   0:02.76 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+
+top - 20:42:51 up 1 day, 36 min,  0 users,  load average: 2.58, 1.09, 0.41
+Tasks:   5 total,   2 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.4 us,  3.1 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7877.2 total,    674.2 free,   4555.7 used,   2647.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3013.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  159 root      20   0  427128 174376  12368 R  59.0   2.2   0:03.35 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+  158 root      20   0    7864   3000   2644 R   1.0   0.0   0:00.06 top -bc -d 1 -n 600
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+
+top - 20:42:52 up 1 day, 36 min,  0 users,  load average: 2.58, 1.09, 0.41
+Tasks:   5 total,   2 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.2 us,  2.2 sy,  0.0 ni, 91.5 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3634.2 free,   1426.3 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6143.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  159 root      20   0  399348 175272  12368 R 100.0   2.2   0:04.36 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:42:53 up 1 day, 36 min,  0 users,  load average: 2.58, 1.09, 0.41
+Tasks:   5 total,   2 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.0 us,  3.1 sy,  0.0 ni, 88.3 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :   7877.2 total,   3634.2 free,   1426.3 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6143.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  159 root      20   0  427128 203052  12368 R 100.0   2.5   0:05.36 /usr/local/bin/python3.8 /usr/local/bin/zkay compile miles2coins.zkay -o miles2coins_+
+    1 root      20   0    3984   3216   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:42:54 up 1 day, 37 min,  0 users,  load average: 2.58, 1.09, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.4 us,  0.9 sy,  0.0 ni, 92.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3634.2 free,   1426.3 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6143.1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:42:55 up 1 day, 37 min,  0 users,  load average: 2.58, 1.09, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.7 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3856.5 free,   1204.0 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6365.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:42:56 up 1 day, 37 min,  0 users,  load average: 2.38, 1.07, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3856.5 free,   1204.0 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6365.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:42:57 up 1 day, 37 min,  0 users,  load average: 2.38, 1.07, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.4 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3856.5 free,   1204.0 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6365.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:42:58 up 1 day, 37 min,  0 users,  load average: 2.38, 1.07, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3856.5 free,   1204.0 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6365.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:42:59 up 1 day, 37 min,  0 users,  load average: 2.38, 1.07, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.4 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3856.5 free,   1204.0 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6365.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:00 up 1 day, 37 min,  0 users,  load average: 2.38, 1.07, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  1.1 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3856.5 free,   1204.0 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6365.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:01 up 1 day, 37 min,  0 users,  load average: 2.19, 1.06, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.4 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3852.1 free,   1208.4 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6360.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:02 up 1 day, 37 min,  0 users,  load average: 2.19, 1.06, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3852.1 free,   1208.4 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6360.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:03 up 1 day, 37 min,  0 users,  load average: 2.19, 1.06, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.4 us,  0.9 sy,  0.0 ni, 98.1 id,  0.1 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :   7877.2 total,   3852.1 free,   1208.4 used,   2816.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6360.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:04 up 1 day, 37 min,  0 users,  load average: 2.19, 1.06, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.1 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3848.8 free,   1211.8 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6357.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:05 up 1 day, 37 min,  0 users,  load average: 2.19, 1.06, 0.41
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.0 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3848.8 free,   1211.8 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6357.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:06 up 1 day, 37 min,  0 users,  load average: 2.01, 1.04, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.4 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3848.8 free,   1211.8 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6357.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:07 up 1 day, 37 min,  0 users,  load average: 2.01, 1.04, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3850.3 free,   1210.2 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6359.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:08 up 1 day, 37 min,  0 users,  load average: 2.01, 1.04, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.1 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3850.3 free,   1210.2 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6359.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:09 up 1 day, 37 min,  0 users,  load average: 2.01, 1.04, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3850.3 free,   1210.2 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6359.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:10 up 1 day, 37 min,  0 users,  load average: 2.01, 1.04, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3850.3 free,   1210.1 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6359.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:11 up 1 day, 37 min,  0 users,  load average: 1.85, 1.02, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3850.3 free,   1210.1 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6359.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:12 up 1 day, 37 min,  0 users,  load average: 1.85, 1.02, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3850.3 free,   1210.1 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6359.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:13 up 1 day, 37 min,  0 users,  load average: 1.85, 1.02, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.3 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   3850.2 free,   1210.3 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6359.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:14 up 1 day, 37 min,  0 users,  load average: 1.85, 1.02, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.7 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7877.2 total,   3850.2 free,   1210.3 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6359.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:15 up 1 day, 37 min,  0 users,  load average: 1.85, 1.02, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.0 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3850.2 free,   1210.3 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6359.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:16 up 1 day, 37 min,  0 users,  load average: 1.70, 1.00, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.2 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.3 free,   1263.2 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:17 up 1 day, 37 min,  0 users,  load average: 1.70, 1.00, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.3 free,   1263.2 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:18 up 1 day, 37 min,  0 users,  load average: 1.70, 1.00, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.3 free,   1263.2 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:19 up 1 day, 37 min,  0 users,  load average: 1.70, 1.00, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.3 free,   1263.2 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:20 up 1 day, 37 min,  0 users,  load average: 1.70, 1.00, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.3 free,   1263.2 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:21 up 1 day, 37 min,  0 users,  load average: 1.57, 0.99, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.8 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.3 free,   1263.2 used,   2816.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.06 top -bc -d 1 -n 600
+
+top - 20:43:22 up 1 day, 37 min,  0 users,  load average: 1.57, 0.99, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.3 free,   1263.1 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  158 root      20   0    7864   3000   2644 R   1.0   0.0   0:00.07 top -bc -d 1 -n 600
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+
+top - 20:43:23 up 1 day, 37 min,  0 users,  load average: 1.57, 0.99, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.3 free,   1263.1 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:24 up 1 day, 37 min,  0 users,  load average: 1.57, 0.99, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.3 free,   1263.1 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:25 up 1 day, 37 min,  0 users,  load average: 1.57, 0.99, 0.40
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.1 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3795.4 free,   1265.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6304.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:26 up 1 day, 37 min,  0 users,  load average: 1.44, 0.97, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3795.4 free,   1265.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6304.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:27 up 1 day, 37 min,  0 users,  load average: 1.44, 0.97, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3795.4 free,   1265.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6304.4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:28 up 1 day, 37 min,  0 users,  load average: 1.44, 0.97, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.4 free,   1263.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:29 up 1 day, 37 min,  0 users,  load average: 1.44, 0.97, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.2 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.4 free,   1263.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:30 up 1 day, 37 min,  0 users,  load average: 1.44, 0.97, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3797.4 free,   1263.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6306.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:31 up 1 day, 37 min,  0 users,  load average: 1.32, 0.95, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3800.9 free,   1259.5 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:32 up 1 day, 37 min,  0 users,  load average: 1.32, 0.95, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3800.9 free,   1259.5 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:33 up 1 day, 37 min,  0 users,  load average: 1.32, 0.95, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.5 us,  0.5 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7877.2 total,   3800.9 free,   1259.5 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:34 up 1 day, 37 min,  0 users,  load average: 1.32, 0.95, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3801.4 free,   1259.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:35 up 1 day, 37 min,  0 users,  load average: 1.32, 0.95, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3801.4 free,   1259.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:36 up 1 day, 37 min,  0 users,  load average: 1.22, 0.94, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.8 id,  0.2 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3801.4 free,   1259.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:37 up 1 day, 37 min,  0 users,  load average: 1.22, 0.94, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3801.4 free,   1259.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:38 up 1 day, 37 min,  0 users,  load average: 1.22, 0.94, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.1 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3801.4 free,   1259.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:39 up 1 day, 37 min,  0 users,  load average: 1.22, 0.94, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.9 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3801.4 free,   1259.0 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:40 up 1 day, 37 min,  0 users,  load average: 1.22, 0.94, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3801.7 free,   1258.7 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:41 up 1 day, 37 min,  0 users,  load average: 1.12, 0.92, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3801.7 free,   1258.7 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:42 up 1 day, 37 min,  0 users,  load average: 1.12, 0.92, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.0 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3801.7 free,   1258.7 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6310.7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:43 up 1 day, 37 min,  0 users,  load average: 1.12, 0.92, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.3 si,  0.0 st
+MiB Mem :   7877.2 total,   3802.8 free,   1257.6 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6311.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:44 up 1 day, 37 min,  0 users,  load average: 1.12, 0.92, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3802.8 free,   1257.6 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6311.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:45 up 1 day, 37 min,  0 users,  load average: 1.12, 0.92, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  0.0 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.3 si,  0.0 st
+MiB Mem :   7877.2 total,   3802.8 free,   1257.6 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6311.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:46 up 1 day, 37 min,  0 users,  load average: 1.03, 0.91, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3775.5 free,   1284.9 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6284.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:47 up 1 day, 37 min,  0 users,  load average: 1.03, 0.91, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3775.5 free,   1284.9 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6284.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:48 up 1 day, 37 min,  0 users,  load average: 1.03, 0.91, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3775.5 free,   1284.9 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6284.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:49 up 1 day, 37 min,  0 users,  load average: 1.03, 0.91, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3775.5 free,   1284.9 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6284.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:50 up 1 day, 37 min,  0 users,  load average: 1.03, 0.91, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3775.5 free,   1284.9 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6284.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:51 up 1 day, 37 min,  0 users,  load average: 0.95, 0.89, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3775.5 free,   1284.9 used,   2816.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6284.5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:52 up 1 day, 37 min,  0 users,  load average: 0.95, 0.89, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3775.5 free,   1284.8 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6284.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:53 up 1 day, 37 min,  0 users,  load average: 0.95, 0.89, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.4 us,  0.5 sy,  0.0 ni, 98.7 id,  0.0 wa,  0.0 hi,  0.4 si,  0.0 st
+MiB Mem :   7877.2 total,   3775.5 free,   1284.8 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6284.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:54 up 1 day, 38 min,  0 users,  load average: 0.95, 0.89, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.0 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3775.5 free,   1284.8 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6284.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:55 up 1 day, 38 min,  0 users,  load average: 0.95, 0.89, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.8 free,   1287.5 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6282.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:56 up 1 day, 38 min,  0 users,  load average: 0.87, 0.88, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.8 free,   1287.5 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6282.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:57 up 1 day, 38 min,  0 users,  load average: 0.87, 0.88, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.8 free,   1287.5 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6282.0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.07 top -bc -d 1 -n 600
+
+top - 20:43:58 up 1 day, 38 min,  0 users,  load average: 0.87, 0.88, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3774.6 free,   1285.7 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6283.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  158 root      20   0    7864   3000   2644 R   1.0   0.0   0:00.08 top -bc -d 1 -n 600
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+
+top - 20:43:59 up 1 day, 38 min,  0 users,  load average: 0.87, 0.88, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.9 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3774.6 free,   1285.7 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6283.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:00 up 1 day, 38 min,  0 users,  load average: 0.87, 0.88, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3774.6 free,   1285.7 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6283.8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:01 up 1 day, 38 min,  0 users,  load average: 0.80, 0.86, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.4 free,   1287.9 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:02 up 1 day, 38 min,  0 users,  load average: 0.80, 0.86, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.4 free,   1287.9 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:03 up 1 day, 38 min,  0 users,  load average: 0.80, 0.86, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  0.4 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.4 free,   1287.9 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:04 up 1 day, 38 min,  0 users,  load average: 0.80, 0.86, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3771.9 free,   1288.4 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6280.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:05 up 1 day, 38 min,  0 users,  load average: 0.80, 0.86, 0.38
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3771.9 free,   1288.4 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6280.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:06 up 1 day, 38 min,  0 users,  load average: 0.74, 0.85, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3771.9 free,   1288.4 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6280.9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:07 up 1 day, 38 min,  0 users,  load average: 0.74, 0.85, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.4 free,   1287.9 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:08 up 1 day, 38 min,  0 users,  load average: 0.74, 0.85, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.4 free,   1287.9 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:09 up 1 day, 38 min,  0 users,  load average: 0.74, 0.85, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  0.0 sy,  0.0 ni, 99.6 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.4 free,   1287.9 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:10 up 1 day, 38 min,  0 users,  load average: 0.74, 0.85, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.4 free,   1287.9 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:11 up 1 day, 38 min,  0 users,  load average: 0.68, 0.83, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.4 free,   1287.9 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:12 up 1 day, 38 min,  0 users,  load average: 0.68, 0.83, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.4 free,   1287.9 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:13 up 1 day, 38 min,  0 users,  load average: 0.68, 0.83, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  0.7 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.0 free,   1288.2 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:14 up 1 day, 38 min,  0 users,  load average: 0.68, 0.83, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.0 free,   1288.2 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:15 up 1 day, 38 min,  0 users,  load average: 0.68, 0.83, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.1 sy,  0.0 ni, 99.6 id,  0.2 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7877.2 total,   3772.0 free,   1288.2 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6281.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600
+
+top - 20:44:16 up 1 day, 38 min,  0 users,  load average: 0.62, 0.82, 0.37
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.1 sy,  0.0 ni, 99.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7877.2 total,   3770.0 free,   1290.2 used,   2816.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6279.2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    1 root      20   0    3984   3232   2736 S   0.0   0.0   0:00.03 bash
+    7 root      20   0    3992   3104   2608 S   0.0   0.0   0:00.04 bash
+   13 root      20   0    3988   3228   2716 S   0.0   0.0   0:00.10 bash
+  158 root      20   0    7864   3000   2644 R   0.0   0.0   0:00.08 top -bc -d 1 -n 600

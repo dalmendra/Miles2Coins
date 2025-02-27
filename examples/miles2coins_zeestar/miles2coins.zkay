@@ -1,0 +1,166 @@
+pragma zkay ^0.3.0;
+
+contract Miles2Coins {
+    final address owner;
+
+	// Maps addresses to miles balances, which are private to each user
+    mapping(address!x => uint32@x<+>) miles_balance;
+
+    // Maps addresses to surreal balances, which are private to each user
+    mapping(address!x => uint32@x<+>) surreal_balance;
+
+    // Offer storage. Maps each Offer ID to its contents 
+    mapping(uint256 => address) offer_creator;	// Creator of the offer
+    mapping(uint256 => uint32) offer_amount;	// Amount of tokens to be bought/sold
+    mapping(uint256 => uint32) offer_price;		// Price to be payed per token
+    mapping(uint256 => bool)   offer_is_active;	// Boolean to indicate whether an offer is active (true) or inactive (false)
+    mapping(uint256 => uint8)  offer_is_buying;	// Type of offer: 1 for buy offers, 0 for sell offers
+
+    // Escrow. Maps the amount of tokens escrowed by the contract for each offer
+    mapping(uint256 => uint32) offer_escrowed_miles;   // Escrowed MilesTokens
+    mapping(uint256 => uint32) offer_escrowed_surreal; // Escrowed SurrealTokens
+
+    uint256 last_offer_id;
+    address offer_creator_addr;
+
+    constructor() public {
+        owner = me;
+    }
+
+
+    // ================== MilesToken functions ==================
+    
+	// mintMiles:
+	// Mints new MilesTokens to a specified address.
+	// 'amount' is initially private to 'me' (the caller), then, it is
+	// reclassified to 'to' before updating 'miles_balance[to]', 
+	// as balances are private to each user.
+	function mintMiles(address to, uint32@me<+> amount) public {
+        require(me == owner);
+        miles_balance[to] += reveal(amount, to);
+    }
+	
+	// getMilesBalance:
+	// Returns the caller's MilesToken balance. The '@me<+>' annotation
+	// ensures that the returned value remains private to 'me',
+	// meaning only the caller can access their own balance.
+    function getMilesBalance() public view returns (uint32@me<+>) {
+        return miles_balance[me];
+    }
+	
+
+    // ================== SurrealToken functions ==================
+	
+	// mintSurreal:
+	// Mints new SurrealTokens to a specified address.
+	// 'amount' is initially private to 'me' (the caller), then, it is
+	// reclassified to 'to' before updating 'surreal_balance[to]', 
+	// as balances are private to each user.
+    function mintSurreal(address to, uint32@me<+> amount) public {
+        require(me == owner);
+        surreal_balance[to] += reveal(amount, to);
+    }
+
+	// getSurrealBalance:
+	// Returns the caller's SurrealToken balance. The '@me<+>' annotation
+	// ensures that the returned value remains private to 'me',
+	// meaning only the caller can access their own balance.
+    function getSurrealBalance() public view returns (uint32@me<+>) {
+        return surreal_balance[me];
+    }
+
+
+    // ================== Main application functions ==================
+
+    // placeOffer: creates a buy or sell offer.
+    // 'amount' and 'price' are public (uint32).
+    // 'isBuying=1' means the creator (me) wants to buy MilesTokens (deposit Surreal).
+    // 'isBuying=0' means the creator wants to sell MilesTokens (deposit Miles).
+    function placeOffer(uint32 amount, uint32 price, uint8 isBuying) public {
+        require(isBuying == 0 || isBuying == 1);
+
+        uint256 offer_id = last_offer_id + 1;
+        last_offer_id = offer_id;
+
+        offer_creator[offer_id] = me;
+        offer_amount[offer_id] = amount;
+        offer_price[offer_id] = price;
+        offer_is_active[offer_id] = true;
+        offer_is_buying[offer_id] = isBuying;
+
+        if (isBuying == 1) {
+            // The creator wants to buy => deposit Surreal
+            uint32 total_cost = amount * price;
+            require(reveal(surreal_balance[me] >= total_cost, all));
+            surreal_balance[me] -= total_cost;
+            offer_escrowed_surreal[offer_id] = total_cost;
+        } else {
+            // The creator wants to sell => deposit Miles
+            require(reveal(miles_balance[me] >= amount, all));
+            miles_balance[me] -= amount;
+            offer_escrowed_miles[offer_id] = amount;
+        }
+    }
+
+    // acceptOffer: another user accepts the offer.
+    // If isBuying=1 => the creator deposited Surreal; the acceptor deposits Miles.
+    // If isBuying=0 => the creator deposited Miles; the acceptor deposits Surreal.
+    function acceptOffer(uint256 offer_id) public {
+        require(offer_is_active[offer_id]);
+
+        offer_creator_addr = offer_creator[offer_id];
+        uint32 amount = offer_amount[offer_id];
+        uint32 price = offer_price[offer_id];
+        uint8 isBuying = offer_is_buying[offer_id];
+
+        if (isBuying == 1) {
+            // The creator is the buyer (Surreal deposited).
+            // The acceptor is the seller => deposit Miles
+            require(reveal(miles_balance[me] >= amount, all));
+            miles_balance[me] -= amount;
+            offer_escrowed_miles[offer_id] += amount;
+
+            // The acceptor (me) receives Surreal from escrow
+            uint32 escrowed_surreal = offer_escrowed_surreal[offer_id];
+            surreal_balance[me] += escrowed_surreal;
+            offer_escrowed_surreal[offer_id] = 0;
+
+            // The creator receives Miles
+            miles_balance[offer_creator_addr] += reveal(amount, offer_creator_addr);
+
+        } else {
+            // The creator is the seller (Miles deposited).
+            // The acceptor is the buyer => deposit Surreal
+            uint32 total_cost = amount * price;
+            require(reveal(surreal_balance[me] >= total_cost, all));
+            surreal_balance[me] -= total_cost;
+            offer_escrowed_surreal[offer_id] += total_cost;
+
+            // The acceptor (me) receives Miles from escrow
+            uint32 escrowed_miles = offer_escrowed_miles[offer_id];
+            miles_balance[me] += escrowed_miles;
+            offer_escrowed_miles[offer_id] = 0;
+
+            // The creator receives Surreal
+            surreal_balance[offer_creator_addr] += reveal(total_cost, offer_creator_addr);
+        }
+
+        offer_is_active[offer_id] = false;
+    }
+
+    // listOffers: lists active offers
+    // filter = 0 => only "sell offers", 1 => only "buy offers", 2 => all offers.
+    function listOffers(uint8 filter) public {
+        for (uint256 i = 1; i <= last_offer_id; i++) {
+            if (offer_is_active[i]) {
+                if (filter == 2 || offer_is_buying[i] == filter) {
+                    // Show details in the zkay shell or logs
+                    uint32 amt  = offer_amount[i];
+                    uint32 prc  = offer_price[i];
+                    address cr  = offer_creator[i];
+                    bool active = offer_is_active[i];
+                }
+            }
+        }
+    }
+}
