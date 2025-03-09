@@ -150,7 +150,7 @@ contract Miles2Coins {
 
     // listOffers: lists active offers
     // filter = 0 => only "sell offers", 1 => only "buy offers", 2 => all offers.
-    function listOffers(uint8 filter) public {
+    function listOffers(uint8 filter) public view {
         for (uint256 i = 1; i <= last_offer_id; i++) {
             if (offer_is_active[i]) {
                 if (filter == 2 || offer_is_buying[i] == filter) {
